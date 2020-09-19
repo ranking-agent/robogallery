@@ -1,0 +1,1421 @@
+{
+  "query_graph": {
+    "nodes": [
+      {
+        "id": "asthma",
+        "curie": [
+          "MONDO:0004979"
+        ],
+        "type": "disease"
+      },
+      {
+        "id": "geneA",
+        "curie": null,
+        "type": "gene"
+      },
+      {
+        "id": "drugA",
+        "curie": null,
+        "type": "chemical_substance"
+      },
+      {
+        "id": "geneB",
+        "curie": null,
+        "type": "gene"
+      },
+      {
+        "id": "drugB",
+        "curie": null,
+        "type": "chemical_substance",
+        "set": true
+      },
+      {
+        "id": "extra_qn_0",
+        "curie": null,
+        "type": [
+          "named_thing",
+          "biological_entity",
+          "disease",
+          "disease_or_phenotypic_feature"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "id": "asthma_geneA",
+        "source_id": "asthma",
+        "target_id": "geneA",
+        "type": "associated",
+        "provided_by": {
+          "allowlist": [
+            "genepro"
+          ]
+        }
+      },
+      {
+        "id": "asthma_drugA",
+        "source_id": "asthma",
+        "target_id": "drugA",
+        "type": "association",
+        "provided_by": {
+          "allowlist": [
+            "icees"
+          ]
+        }
+      },
+      {
+        "id": "geneA_drugA",
+        "source_id": "drugA",
+        "target_id": "geneA",
+        "type": "related_to",
+        "provided_by": {
+          "allowlist": [
+            "bte"
+          ]
+        }
+      },
+      {
+        "id": "geneA_geneB",
+        "source_id": "geneA",
+        "target_id": "geneB",
+        "type": "directly_interacts_with",
+        "provided_by": {
+          "allowlist": [
+            "automat_intact"
+          ]
+        }
+      },
+      {
+        "id": "geneB_drugB",
+        "source_id": "geneB",
+        "target_id": "drugB",
+        "type": "affected_by",
+        "provided_by": {
+          "allowlist": [
+            "molepro"
+          ]
+        }
+      },
+      {
+        "id": "extra_qe_0",
+        "source_id": "drugB",
+        "target_id": "extra_qn_0",
+        "type": null
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "nodes": [
+      {
+        "id": "MONDO:0004979",
+        "type": "disease",
+        "name": "asthma"
+      },
+      {
+        "id": "NCBIGene:9173",
+        "type": "gene",
+        "name": "IL1RL1"
+      },
+      {
+        "id": "NCBIGene:433",
+        "type": "gene",
+        "equivalent_identifiers": [
+          "NCBIGene:433",
+          "ENSEMBL:ENSG00000161944",
+          "HGNC:743",
+          "UniProtKB:P07307"
+        ],
+        "name": "ASGR2",
+        "category": [
+          "gene",
+          "named_thing",
+          "biological_entity",
+          "molecular_entity",
+          "genomic_entity",
+          "macromolecular_machine",
+          "gene_or_gene_product"
+        ],
+        "taxon": "9606"
+      },
+      {
+        "id": "DrugBank:DB13998",
+        "type": "chemical_substance",
+        "name": "Lonoctocog alfa"
+      },
+      {
+        "id": "CHEMBL.COMPOUND:CHEMBL2108175",
+        "type": "chemical_substance",
+        "name": "Antihemophilic factor, human recombinant"
+      },
+      {
+        "id": "CHEMBL.COMPOUND:CHEMBL2109137",
+        "type": "chemical_substance",
+        "name": "Moroctocog alfa"
+      },
+      {
+        "id": "NCBIGene:51135",
+        "type": "gene",
+        "equivalent_identifiers": [
+          "NCBIGene:51135",
+          "ENSEMBL:ENSG00000198001",
+          "HGNC:17967",
+          "UniProtKB:Q9NWZ3"
+        ],
+        "name": "IRAK4",
+        "category": [
+          "gene",
+          "gene_or_gene_product",
+          "macromolecular_machine",
+          "genomic_entity",
+          "molecular_entity",
+          "biological_entity",
+          "named_thing"
+        ],
+        "taxon": "9606"
+      },
+      {
+        "id": "CHEMBL.COMPOUND:CHEMBL1236126",
+        "type": "chemical_substance",
+        "name": "CHEMBL1236126"
+      },
+      {
+        "id": "CHEMBL.COMPOUND:CHEMBL379787",
+        "type": "chemical_substance",
+        "name": "CHEMBL379787"
+      },
+      {
+        "id": "CHEMBL.COMPOUND:CHEMBL2103830",
+        "type": "chemical_substance",
+        "name": "FOSTAMATINIB"
+      },
+      {
+        "id": "NCBIGene:4615",
+        "type": "gene",
+        "equivalent_identifiers": [
+          "NCBIGene:4615",
+          "ENSEMBL:ENSG00000172936",
+          "HGNC:7562",
+          "UniProtKB:Q99836"
+        ],
+        "name": "MYD88",
+        "category": [
+          "gene",
+          "gene_or_gene_product",
+          "macromolecular_machine",
+          "genomic_entity",
+          "molecular_entity",
+          "biological_entity",
+          "named_thing"
+        ],
+        "taxon": "9606"
+      },
+      {
+        "id": "CHEBI:76612",
+        "type": "chemical_substance",
+        "name": "ibrutinib"
+      },
+      {
+        "id": "CHEBI:45716",
+        "type": "chemical_substance",
+        "name": "vorinostat"
+      },
+      {
+        "id": "CHEBI:16480",
+        "type": "chemical_substance",
+        "equivalent_identifiers": [
+          "PUBCHEM.COMPOUND:145068",
+          "MESH:D009569"
+        ],
+        "name": "nitric oxide"
+      },
+      {
+        "id": "NCBIGene:3117",
+        "type": "gene",
+        "name": "HLA-DQA1"
+      },
+      {
+        "id": "NCBIGene:3060",
+        "type": "gene",
+        "equivalent_identifiers": [
+          "NCBIGene:3060",
+          "ENSEMBL:ENSG00000161610",
+          "HGNC:4847",
+          "UniProtKB:O43612"
+        ],
+        "category": [
+          "gene",
+          "named_thing",
+          "biological_entity",
+          "molecular_entity",
+          "genomic_entity",
+          "macromolecular_machine",
+          "gene_or_gene_product"
+        ],
+        "name": "HCRT",
+        "taxon": "9606"
+      },
+      {
+        "id": "CHEBI:18183",
+        "type": "chemical_substance",
+        "name": "5-oxo-L-proline"
+      },
+      {
+        "id": "CHEBI:16716",
+        "type": "chemical_substance",
+        "equivalent_identifiers": [
+          "PUBCHEM.COMPOUND:241",
+          "MESH:D001554"
+        ],
+        "name": "benzene"
+      },
+      {
+        "id": "NCBIGene:85480",
+        "type": "gene",
+        "name": "TSLP"
+      },
+      {
+        "id": "NCBIGene:8517",
+        "type": "gene",
+        "equivalent_identifiers": [
+          "NCBIGene:8517",
+          "ENSEMBL:ENSG00000269335",
+          "HGNC:5961",
+          "UniProtKB:Q9Y6K9"
+        ],
+        "name": "IKBKG",
+        "category": [
+          "gene",
+          "named_thing",
+          "biological_entity",
+          "molecular_entity",
+          "genomic_entity",
+          "macromolecular_machine",
+          "gene_or_gene_product"
+        ],
+        "taxon": "9606"
+      },
+      {
+        "id": "CHEBI:135192",
+        "type": "chemical_substance",
+        "name": "chlorproguanil"
+      },
+      {
+        "id": "NCBIGene:5621",
+        "type": "gene",
+        "equivalent_identifiers": [
+          "NCBIGene:5621",
+          "ENSEMBL:ENSG00000171867",
+          "HGNC:9449",
+          "UniProtKB:P04156",
+          "UniProtKB:F7VJQ1"
+        ],
+        "name": "PRNP",
+        "category": [
+          "gene",
+          "named_thing",
+          "biological_entity",
+          "molecular_entity",
+          "genomic_entity",
+          "macromolecular_machine",
+          "gene_or_gene_product"
+        ],
+        "taxon": "9606"
+      },
+      {
+        "id": "CHEBI:30052",
+        "type": "chemical_substance",
+        "name": "copper(0)"
+      },
+      {
+        "id": "CHEBI:38666",
+        "type": "chemical_substance",
+        "name": "(R)-flurbiprofen"
+      },
+      {
+        "id": "CHEBI:27902",
+        "type": "chemical_substance",
+        "name": "tetracycline"
+      },
+      {
+        "id": "DrugBank:DB04998",
+        "type": "chemical_substance",
+        "name": "AGRO100"
+      },
+      {
+        "id": "CHEBI:5441",
+        "type": "chemical_substance",
+        "name": "glyburide"
+      },
+      {
+        "id": "CHEBI:63918",
+        "type": "chemical_substance",
+        "name": "artesunate"
+      },
+      {
+        "id": "MESH:D052638",
+        "type": "chemical_substance",
+        "equivalent_identifiers": [
+          "NCIT:C29886",
+          "UMLSCUI:C1510837",
+          "SCTID:278694008",
+          "ENVO:01000060"
+        ],
+        "name": "Particulate Matter"
+      },
+      {
+        "id": "MONDO:0018905",
+        "type": [
+          "named_thing",
+          "biological_entity",
+          "disease",
+          "disease_or_phenotypic_feature"
+        ],
+        "name": "diffuse large B-cell lymphoma"
+      },
+      {
+        "id": "HP:0000010",
+        "type": [
+          "named_thing",
+          "biological_entity",
+          "disease_or_phenotypic_feature",
+          "phenotypic_feature"
+        ],
+        "name": "Recurrent urinary tract infections"
+      },
+      {
+        "id": "HP:0002170",
+        "type": [
+          "named_thing",
+          "biological_entity",
+          "disease_or_phenotypic_feature",
+          "phenotypic_feature"
+        ],
+        "name": "Intracranial hemorrhage"
+      },
+      {
+        "id": "MONDO:0005920",
+        "type": [
+          "named_thing",
+          "biological_entity",
+          "disease",
+          "disease_or_phenotypic_feature"
+        ],
+        "name": "Plasmodium falciparum malaria"
+      },
+      {
+        "id": "NCBIGene:213",
+        "type": [
+          "named_thing",
+          "biological_entity",
+          "molecular_entity",
+          "gene",
+          "gene_or_gene_product",
+          "macromolecular_machine",
+          "genomic_entity"
+        ],
+        "name": "ALB"
+      },
+      {
+        "id": "MONDO:0004069",
+        "type": [
+          "named_thing",
+          "biological_entity",
+          "disease",
+          "disease_or_phenotypic_feature"
+        ],
+        "name": "inborn mitochondrial metabolism disorder"
+      },
+      {
+        "id": "MONDO:0006022",
+        "type": [
+          "named_thing",
+          "biological_entity",
+          "disease",
+          "disease_or_phenotypic_feature"
+        ],
+        "name": "acidosis disorder"
+      }
+    ],
+    "edges": [
+      {
+        "id": "MAGMA_GENE_349304",
+        "source_id": "MONDO:0004979",
+        "target_id": "NCBIGene:9173",
+        "type": "associated",
+        "score_direction": "smaller_is_better",
+        "score_name": "MAGMA-pvalue",
+        "score": 7.4768e-7
+      },
+      {
+        "id": "MONDO:0004979_AvgDailyNOExposure_2_qcut_CHEBI:16480",
+        "source_id": "MONDO:0004979",
+        "target_id": "CHEBI:16480",
+        "type": "association"
+      },
+      {
+        "id": "CHEBI:16480--related_to--NCBIGene:9173",
+        "source_id": "CHEBI:16480",
+        "target_id": "NCBIGene:9173",
+        "type": "related_to",
+        "provided_by": "Translator Text Mining Provider",
+        "api": "CORD Chemical API",
+        "relation": "related_to",
+        "publications": [
+          "PMC:PMC3175149",
+          "PMC:PMC3644799",
+          "PMC:PMC3664950",
+          "PMC:PMC7032173"
+        ]
+      },
+      {
+        "id": "MAGMA_GENE_352925",
+        "source_id": "MONDO:0004979",
+        "target_id": "NCBIGene:3117",
+        "type": "associated",
+        "score_direction": "smaller_is_better",
+        "score_name": "MAGMA-pvalue",
+        "score": 4.1487e-14
+      },
+      {
+        "id": "MONDO:0004979_AvgDailyBenzeneExposure_2_qcut_CHEBI:16716",
+        "source_id": "MONDO:0004979",
+        "target_id": "CHEBI:16716",
+        "type": "association"
+      },
+      {
+        "id": "CHEBI:16716--related_to--NCBIGene:3117",
+        "source_id": "CHEBI:16716",
+        "target_id": "NCBIGene:3117",
+        "type": "related_to",
+        "provided_by": "CTD",
+        "api": "CTD API",
+        "relation": "related_to",
+        "publications": [
+          "PMID:16188091"
+        ]
+      },
+      {
+        "id": "MAGMA_GENE_352094",
+        "source_id": "MONDO:0004979",
+        "target_id": "NCBIGene:85480",
+        "type": "associated",
+        "score_direction": "smaller_is_better",
+        "score_name": "MAGMA-pvalue",
+        "score": 5.5068e-8
+      },
+      {
+        "id": "MONDO:0004979_AvgDailyPM2.5Exposure_2_qcut_MESH:D052638",
+        "source_id": "MONDO:0004979",
+        "target_id": "MESH:D052638",
+        "type": "association"
+      },
+      {
+        "id": "MESH:D052638--related_to--NCBIGene:85480",
+        "source_id": "MESH:D052638",
+        "target_id": "NCBIGene:85480",
+        "type": "related_to",
+        "provided_by": "CTD",
+        "api": "CTD API",
+        "relation": "related_to",
+        "publications": [
+          "PMID:28655636"
+        ]
+      },
+      {
+        "id": "2a4519287535ecf93f2df56a7b378e9f",
+        "source_id": "NCBIGene:9173",
+        "target_id": "NCBIGene:433",
+        "type": "directly_interacts_with",
+        "subject": "NCBIGene:9173",
+        "relation": "directly_interacts_with",
+        "object": "NCBIGene:433",
+        "edge_label": "directly_interacts_with",
+        "publications": [
+          "PMID:32296183"
+        ],
+        "detection_method": "MI:1356",
+        "source_database": "IntAct"
+      },
+      {
+        "id": "6e5d28fe-f5f9-4570-ba88-8e977d6bcdcf",
+        "source_id": "NCBIGene:433",
+        "target_id": "DrugBank:DB13998",
+        "type": "affected_by"
+      },
+      {
+        "id": "1c91ee63-a883-44c2-9164-ba9cd9252cc7",
+        "source_id": "NCBIGene:433",
+        "target_id": "CHEMBL.COMPOUND:CHEMBL2108175",
+        "type": "affected_by"
+      },
+      {
+        "id": "8e95d76f-a581-4e02-8b53-10e66579b56b",
+        "source_id": "NCBIGene:433",
+        "target_id": "CHEMBL.COMPOUND:CHEMBL2109137",
+        "type": "affected_by"
+      },
+      {
+        "id": "856d6ea2294b841b5cd8dd508e4efed1",
+        "source_id": "NCBIGene:9173",
+        "target_id": "NCBIGene:51135",
+        "type": "directly_interacts_with",
+        "subject": "NCBIGene:9173",
+        "relation": "directly_interacts_with",
+        "object": "NCBIGene:51135",
+        "edge_label": "directly_interacts_with",
+        "publications": [
+          "PMID:16286016"
+        ],
+        "detection_method": "MI:0006",
+        "source_database": "IntAct"
+      },
+      {
+        "id": "8ebbabdb-eac5-463d-817b-0f986d75b13d",
+        "source_id": "NCBIGene:51135",
+        "target_id": "CHEMBL.COMPOUND:CHEMBL1236126",
+        "type": "affected_by"
+      },
+      {
+        "id": "88b3498c-5e7f-4bd3-9775-38f2af1d689c",
+        "source_id": "NCBIGene:51135",
+        "target_id": "CHEMBL.COMPOUND:CHEMBL379787",
+        "type": "affected_by"
+      },
+      {
+        "id": "0a39bef3-fef6-48d2-b240-0fdbc23eb48d",
+        "source_id": "NCBIGene:51135",
+        "target_id": "CHEMBL.COMPOUND:CHEMBL2103830",
+        "type": "affected_by"
+      },
+      {
+        "id": "67d5ef9dcdb4f53d9529a5a6f0a4feef",
+        "source_id": "NCBIGene:9173",
+        "target_id": "NCBIGene:4615",
+        "type": "directly_interacts_with",
+        "subject": "NCBIGene:9173",
+        "relation": "directly_interacts_with",
+        "object": "NCBIGene:4615",
+        "edge_label": "directly_interacts_with",
+        "publications": [
+          "PMID:16286016"
+        ],
+        "detection_method": "MI:0006",
+        "source_database": "IntAct"
+      },
+      {
+        "id": "5d540807-7b2d-40ce-bcd8-5ad938e08114",
+        "source_id": "NCBIGene:4615",
+        "target_id": "CHEBI:76612",
+        "type": "affected_by"
+      },
+      {
+        "id": "c57ca461-ad36-418a-904d-cd6247a219b4",
+        "source_id": "NCBIGene:4615",
+        "target_id": "CHEBI:45716",
+        "type": "affected_by"
+      },
+      {
+        "id": "f752f939d746413be457dcd5d4386e89",
+        "source_id": "NCBIGene:3117",
+        "target_id": "NCBIGene:3060",
+        "type": "directly_interacts_with",
+        "subject": "NCBIGene:3117",
+        "relation": "directly_interacts_with",
+        "object": "NCBIGene:3060",
+        "publications": [
+          "PMID:14769912"
+        ],
+        "edge_label": "directly_interacts_with",
+        "detection_method": "MI:0114",
+        "source_database": "IntAct"
+      },
+      {
+        "id": "9a64b5a3-5e34-4148-8526-f290dcfb35af",
+        "source_id": "NCBIGene:3060",
+        "target_id": "CHEBI:18183",
+        "type": "affected_by"
+      },
+      {
+        "id": "936d5107ce1ad39ff525821a287008d7",
+        "source_id": "NCBIGene:8517",
+        "target_id": "NCBIGene:85480",
+        "type": "directly_interacts_with",
+        "subject": "NCBIGene:8517",
+        "relation": "directly_interacts_with",
+        "object": "NCBIGene:85480",
+        "publications": [
+          "PMID:20098747"
+        ],
+        "edge_label": "directly_interacts_with",
+        "detection_method": "MI:0089",
+        "source_database": "IntAct"
+      },
+      {
+        "id": "e3",
+        "source_id": "NCBIGene:8517",
+        "target_id": "CHEBI:135192",
+        "type": "affected_by"
+      },
+      {
+        "id": "512d7d6adb53958f7967c0a7bdcce38b",
+        "source_id": "NCBIGene:5621",
+        "target_id": "NCBIGene:85480",
+        "type": "directly_interacts_with",
+        "subject": "NCBIGene:5621",
+        "relation": "directly_interacts_with",
+        "object": "NCBIGene:85480",
+        "publications": [
+          "PMID:18482256"
+        ],
+        "edge_label": "directly_interacts_with",
+        "detection_method": "MI:0089",
+        "source_database": "IntAct"
+      },
+      {
+        "id": "fcb2ca95-d650-47f4-84d3-9ab39ce9f4eb",
+        "source_id": "NCBIGene:5621",
+        "target_id": "CHEBI:30052",
+        "type": "affected_by"
+      },
+      {
+        "id": "f6681841-ed1e-4af7-9bc2-121e1b7c50e3",
+        "source_id": "NCBIGene:8517",
+        "target_id": "CHEBI:38666",
+        "type": "affected_by"
+      },
+      {
+        "id": "8aa05690-1869-4f8c-9a82-31669ded886a",
+        "source_id": "NCBIGene:5621",
+        "target_id": "CHEBI:27902",
+        "type": "affected_by"
+      },
+      {
+        "id": "baf5b720-aa14-4188-95ca-558a32d504b4",
+        "source_id": "NCBIGene:8517",
+        "target_id": "DrugBank:DB04998",
+        "type": "affected_by"
+      },
+      {
+        "id": "e5",
+        "source_id": "NCBIGene:8517",
+        "target_id": "CHEBI:5441",
+        "type": "affected_by"
+      },
+      {
+        "id": "e4",
+        "source_id": "NCBIGene:8517",
+        "target_id": "CHEBI:63918",
+        "type": "affected_by"
+      },
+      {
+        "id": "2921129278200652061",
+        "source_id": "CHEBI:45716",
+        "target_id": "MONDO:0018905",
+        "type": "treats"
+      },
+      {
+        "id": "4919371741648925914",
+        "source_id": "CHEBI:76612",
+        "target_id": "MONDO:0018905",
+        "type": "treats"
+      },
+      {
+        "id": "-2963103767969164039",
+        "source_id": "CHEBI:45716",
+        "target_id": "HP:0000010",
+        "type": "causes_adverse_event"
+      },
+      {
+        "id": "-4972125816734629834",
+        "source_id": "CHEBI:76612",
+        "target_id": "HP:0000010",
+        "type": "causes_adverse_event"
+      },
+      {
+        "id": "-3054463362966144808",
+        "source_id": "CHEBI:45716",
+        "target_id": "HP:0002170",
+        "type": "causes_adverse_event"
+      },
+      {
+        "id": "2935471328262583995",
+        "source_id": "CHEBI:76612",
+        "target_id": "HP:0002170",
+        "type": "causes_adverse_event"
+      },
+      {
+        "id": "-8518332712481639368",
+        "source_id": "CHEBI:135192",
+        "target_id": "MONDO:0005920",
+        "type": "treats"
+      },
+      {
+        "id": "3323059935563758529",
+        "source_id": "CHEBI:63918",
+        "target_id": "MONDO:0005920",
+        "type": "treats"
+      },
+      {
+        "id": "-2604131929226957448",
+        "source_id": "CHEBI:30052",
+        "target_id": "NCBIGene:213",
+        "type": "increases_degradation_of"
+      },
+      {
+        "id": "2425502286149041074",
+        "source_id": "CHEBI:27902",
+        "target_id": "NCBIGene:213",
+        "type": "increases_degradation_of"
+      },
+      {
+        "id": "2294637712288353048",
+        "source_id": "CHEBI:30052",
+        "target_id": "MONDO:0004069",
+        "type": "contributes_to"
+      },
+      {
+        "id": "2160242396694151186",
+        "source_id": "CHEBI:27902",
+        "target_id": "MONDO:0004069",
+        "type": "contributes_to"
+      },
+      {
+        "id": "-4328836621778800112",
+        "source_id": "CHEBI:30052",
+        "target_id": "MONDO:0006022",
+        "type": "contributes_to"
+      },
+      {
+        "id": "8947733283691328586",
+        "source_id": "CHEBI:27902",
+        "target_id": "MONDO:0006022",
+        "type": "contributes_to"
+      }
+    ]
+  },
+  "results": [
+    {
+      "node_bindings": [
+        {
+          "qg_id": "asthma",
+          "kg_id": [
+            "MONDO:0004979"
+          ]
+        },
+        {
+          "qg_id": "geneA",
+          "kg_id": [
+            "NCBIGene:9173"
+          ]
+        },
+        {
+          "qg_id": "drugA",
+          "kg_id": [
+            "CHEBI:16480"
+          ]
+        },
+        {
+          "qg_id": "geneB",
+          "kg_id": [
+            "NCBIGene:4615"
+          ]
+        },
+        {
+          "qg_id": "drugB",
+          "kg_id": [
+            "CHEBI:45716",
+            "CHEBI:76612"
+          ],
+          "coalescence_method": "graph_enrichment",
+          "p_value": 2.5151274190020773e-8,
+          "enriched_nodes": [
+            "MONDO:0018905"
+          ]
+        },
+        {
+          "qg_id": "extra_qn_0",
+          "kg_id": [
+            "MONDO:0018905"
+          ]
+        }
+      ],
+      "edge_bindings": [
+        {
+          "qg_id": "asthma_geneA",
+          "kg_id": [
+            "MAGMA_GENE_349304"
+          ]
+        },
+        {
+          "qg_id": "asthma_drugA",
+          "kg_id": [
+            "MONDO:0004979_AvgDailyNOExposure_2_qcut_CHEBI:16480"
+          ]
+        },
+        {
+          "qg_id": "geneA_drugA",
+          "kg_id": [
+            "CHEBI:16480--related_to--NCBIGene:9173"
+          ]
+        },
+        {
+          "qg_id": "geneA_geneB",
+          "kg_id": [
+            "67d5ef9dcdb4f53d9529a5a6f0a4feef"
+          ]
+        },
+        {
+          "qg_id": "geneB_drugB",
+          "kg_id": [
+            "c57ca461-ad36-418a-904d-cd6247a219b4",
+            "5d540807-7b2d-40ce-bcd8-5ad938e08114"
+          ]
+        },
+        {
+          "qg_id": "extra_qe_0",
+          "kg_id": [
+            "4919371741648925914",
+            "2921129278200652061"
+          ]
+        }
+      ],
+      "extra_nodes": null,
+      "extra_edges": null,
+      "score": 0.02608284279327922
+    },
+    {
+      "node_bindings": [
+        {
+          "qg_id": "asthma",
+          "kg_id": [
+            "MONDO:0004979"
+          ]
+        },
+        {
+          "qg_id": "geneA",
+          "kg_id": [
+            "NCBIGene:9173"
+          ]
+        },
+        {
+          "qg_id": "drugA",
+          "kg_id": [
+            "CHEBI:16480"
+          ]
+        },
+        {
+          "qg_id": "geneB",
+          "kg_id": [
+            "NCBIGene:4615"
+          ]
+        },
+        {
+          "qg_id": "drugB",
+          "kg_id": [
+            "CHEBI:45716",
+            "CHEBI:76612"
+          ],
+          "coalescence_method": "graph_enrichment",
+          "p_value": 1.4685931504850186e-7,
+          "enriched_nodes": [
+            "HP:0000010"
+          ]
+        },
+        {
+          "qg_id": "extra_qn_0",
+          "kg_id": [
+            "HP:0000010"
+          ]
+        }
+      ],
+      "edge_bindings": [
+        {
+          "qg_id": "asthma_geneA",
+          "kg_id": [
+            "MAGMA_GENE_349304"
+          ]
+        },
+        {
+          "qg_id": "asthma_drugA",
+          "kg_id": [
+            "MONDO:0004979_AvgDailyNOExposure_2_qcut_CHEBI:16480"
+          ]
+        },
+        {
+          "qg_id": "geneA_drugA",
+          "kg_id": [
+            "CHEBI:16480--related_to--NCBIGene:9173"
+          ]
+        },
+        {
+          "qg_id": "geneA_geneB",
+          "kg_id": [
+            "67d5ef9dcdb4f53d9529a5a6f0a4feef"
+          ]
+        },
+        {
+          "qg_id": "geneB_drugB",
+          "kg_id": [
+            "c57ca461-ad36-418a-904d-cd6247a219b4",
+            "5d540807-7b2d-40ce-bcd8-5ad938e08114"
+          ]
+        },
+        {
+          "qg_id": "extra_qe_0",
+          "kg_id": [
+            "-4972125816734629834",
+            "-2963103767969164039"
+          ]
+        }
+      ],
+      "extra_nodes": null,
+      "extra_edges": null,
+      "score": 0.02608284279327922
+    },
+    {
+      "node_bindings": [
+        {
+          "qg_id": "asthma",
+          "kg_id": [
+            "MONDO:0004979"
+          ]
+        },
+        {
+          "qg_id": "geneA",
+          "kg_id": [
+            "NCBIGene:9173"
+          ]
+        },
+        {
+          "qg_id": "drugA",
+          "kg_id": [
+            "CHEBI:16480"
+          ]
+        },
+        {
+          "qg_id": "geneB",
+          "kg_id": [
+            "NCBIGene:4615"
+          ]
+        },
+        {
+          "qg_id": "drugB",
+          "kg_id": [
+            "CHEBI:45716",
+            "CHEBI:76612"
+          ],
+          "coalescence_method": "graph_enrichment",
+          "p_value": 1.7326589303404267e-7,
+          "enriched_nodes": [
+            "HP:0002170"
+          ]
+        },
+        {
+          "qg_id": "extra_qn_0",
+          "kg_id": [
+            "HP:0002170"
+          ]
+        }
+      ],
+      "edge_bindings": [
+        {
+          "qg_id": "asthma_geneA",
+          "kg_id": [
+            "MAGMA_GENE_349304"
+          ]
+        },
+        {
+          "qg_id": "asthma_drugA",
+          "kg_id": [
+            "MONDO:0004979_AvgDailyNOExposure_2_qcut_CHEBI:16480"
+          ]
+        },
+        {
+          "qg_id": "geneA_drugA",
+          "kg_id": [
+            "CHEBI:16480--related_to--NCBIGene:9173"
+          ]
+        },
+        {
+          "qg_id": "geneA_geneB",
+          "kg_id": [
+            "67d5ef9dcdb4f53d9529a5a6f0a4feef"
+          ]
+        },
+        {
+          "qg_id": "geneB_drugB",
+          "kg_id": [
+            "c57ca461-ad36-418a-904d-cd6247a219b4",
+            "5d540807-7b2d-40ce-bcd8-5ad938e08114"
+          ]
+        },
+        {
+          "qg_id": "extra_qe_0",
+          "kg_id": [
+            "-3054463362966144808",
+            "2935471328262583995"
+          ]
+        }
+      ],
+      "extra_nodes": null,
+      "extra_edges": null,
+      "score": 0.02608284279327923
+    },
+    {
+      "node_bindings": [
+        {
+          "qg_id": "asthma",
+          "kg_id": [
+            "MONDO:0004979"
+          ]
+        },
+        {
+          "qg_id": "geneA",
+          "kg_id": [
+            "NCBIGene:85480"
+          ]
+        },
+        {
+          "qg_id": "drugA",
+          "kg_id": [
+            "MESH:D052638"
+          ]
+        },
+        {
+          "qg_id": "geneB",
+          "kg_id": [
+            "NCBIGene:8517"
+          ]
+        },
+        {
+          "qg_id": "drugB",
+          "kg_id": [
+            "CHEBI:135192",
+            "CHEBI:63918"
+          ],
+          "coalescence_method": "graph_enrichment",
+          "p_value": 4.585353660038897e-7,
+          "enriched_nodes": [
+            "MONDO:0005920"
+          ]
+        },
+        {
+          "qg_id": "extra_qn_0",
+          "kg_id": [
+            "MONDO:0005920"
+          ]
+        }
+      ],
+      "edge_bindings": [
+        {
+          "qg_id": "asthma_geneA",
+          "kg_id": [
+            "MAGMA_GENE_352094"
+          ]
+        },
+        {
+          "qg_id": "asthma_drugA",
+          "kg_id": [
+            "MONDO:0004979_AvgDailyPM2.5Exposure_2_qcut_MESH:D052638"
+          ]
+        },
+        {
+          "qg_id": "geneA_drugA",
+          "kg_id": [
+            "MESH:D052638--related_to--NCBIGene:85480"
+          ]
+        },
+        {
+          "qg_id": "geneA_geneB",
+          "kg_id": [
+            "936d5107ce1ad39ff525821a287008d7"
+          ]
+        },
+        {
+          "qg_id": "geneB_drugB",
+          "kg_id": [
+            "e3",
+            "e4"
+          ]
+        },
+        {
+          "qg_id": "extra_qe_0",
+          "kg_id": [
+            "-8518332712481639368",
+            "3323059935563758529"
+          ]
+        }
+      ],
+      "extra_nodes": null,
+      "extra_edges": null,
+      "score": 0.024568994771672736
+    },
+    {
+      "node_bindings": [
+        {
+          "qg_id": "asthma",
+          "kg_id": [
+            "MONDO:0004979"
+          ]
+        },
+        {
+          "qg_id": "geneA",
+          "kg_id": [
+            "NCBIGene:85480"
+          ]
+        },
+        {
+          "qg_id": "drugA",
+          "kg_id": [
+            "MESH:D052638"
+          ]
+        },
+        {
+          "qg_id": "geneB",
+          "kg_id": [
+            "NCBIGene:5621"
+          ]
+        },
+        {
+          "qg_id": "drugB",
+          "kg_id": [
+            "CHEBI:30052",
+            "CHEBI:27902"
+          ],
+          "coalescence_method": "graph_enrichment",
+          "p_value": 3.9304008111929507e-10,
+          "enriched_nodes": [
+            "NCBIGene:213"
+          ]
+        },
+        {
+          "qg_id": "extra_qn_0",
+          "kg_id": [
+            "NCBIGene:213"
+          ]
+        }
+      ],
+      "edge_bindings": [
+        {
+          "qg_id": "asthma_geneA",
+          "kg_id": [
+            "MAGMA_GENE_352094"
+          ]
+        },
+        {
+          "qg_id": "asthma_drugA",
+          "kg_id": [
+            "MONDO:0004979_AvgDailyPM2.5Exposure_2_qcut_MESH:D052638"
+          ]
+        },
+        {
+          "qg_id": "geneA_drugA",
+          "kg_id": [
+            "MESH:D052638--related_to--NCBIGene:85480"
+          ]
+        },
+        {
+          "qg_id": "geneA_geneB",
+          "kg_id": [
+            "512d7d6adb53958f7967c0a7bdcce38b"
+          ]
+        },
+        {
+          "qg_id": "geneB_drugB",
+          "kg_id": [
+            "8aa05690-1869-4f8c-9a82-31669ded886a",
+            "fcb2ca95-d650-47f4-84d3-9ab39ce9f4eb"
+          ]
+        },
+        {
+          "qg_id": "extra_qe_0",
+          "kg_id": [
+            "2425502286149041074",
+            "-2604131929226957448"
+          ]
+        }
+      ],
+      "extra_nodes": null,
+      "extra_edges": null,
+      "score": 0.024568994771672754
+    },
+    {
+      "node_bindings": [
+        {
+          "qg_id": "asthma",
+          "kg_id": [
+            "MONDO:0004979"
+          ]
+        },
+        {
+          "qg_id": "geneA",
+          "kg_id": [
+            "NCBIGene:85480"
+          ]
+        },
+        {
+          "qg_id": "drugA",
+          "kg_id": [
+            "MESH:D052638"
+          ]
+        },
+        {
+          "qg_id": "geneB",
+          "kg_id": [
+            "NCBIGene:5621"
+          ]
+        },
+        {
+          "qg_id": "drugB",
+          "kg_id": [
+            "CHEBI:30052",
+            "CHEBI:27902"
+          ],
+          "coalescence_method": "graph_enrichment",
+          "p_value": 6.304734753719598e-8,
+          "enriched_nodes": [
+            "MONDO:0004069"
+          ]
+        },
+        {
+          "qg_id": "extra_qn_0",
+          "kg_id": [
+            "MONDO:0004069"
+          ]
+        }
+      ],
+      "edge_bindings": [
+        {
+          "qg_id": "asthma_geneA",
+          "kg_id": [
+            "MAGMA_GENE_352094"
+          ]
+        },
+        {
+          "qg_id": "asthma_drugA",
+          "kg_id": [
+            "MONDO:0004979_AvgDailyPM2.5Exposure_2_qcut_MESH:D052638"
+          ]
+        },
+        {
+          "qg_id": "geneA_drugA",
+          "kg_id": [
+            "MESH:D052638--related_to--NCBIGene:85480"
+          ]
+        },
+        {
+          "qg_id": "geneA_geneB",
+          "kg_id": [
+            "512d7d6adb53958f7967c0a7bdcce38b"
+          ]
+        },
+        {
+          "qg_id": "geneB_drugB",
+          "kg_id": [
+            "8aa05690-1869-4f8c-9a82-31669ded886a",
+            "fcb2ca95-d650-47f4-84d3-9ab39ce9f4eb"
+          ]
+        },
+        {
+          "qg_id": "extra_qe_0",
+          "kg_id": [
+            "2160242396694151186",
+            "2294637712288353048"
+          ]
+        }
+      ],
+      "extra_nodes": null,
+      "extra_edges": null,
+      "score": 0.024568994771672754
+    },
+    {
+      "node_bindings": [
+        {
+          "qg_id": "asthma",
+          "kg_id": [
+            "MONDO:0004979"
+          ]
+        },
+        {
+          "qg_id": "geneA",
+          "kg_id": [
+            "NCBIGene:85480"
+          ]
+        },
+        {
+          "qg_id": "drugA",
+          "kg_id": [
+            "MESH:D052638"
+          ]
+        },
+        {
+          "qg_id": "geneB",
+          "kg_id": [
+            "NCBIGene:5621"
+          ]
+        },
+        {
+          "qg_id": "drugB",
+          "kg_id": [
+            "CHEBI:30052",
+            "CHEBI:27902"
+          ],
+          "coalescence_method": "graph_enrichment",
+          "p_value": 2.8638701113191603e-7,
+          "enriched_nodes": [
+            "MONDO:0006022"
+          ]
+        },
+        {
+          "qg_id": "extra_qn_0",
+          "kg_id": [
+            "MONDO:0006022"
+          ]
+        }
+      ],
+      "edge_bindings": [
+        {
+          "qg_id": "asthma_geneA",
+          "kg_id": [
+            "MAGMA_GENE_352094"
+          ]
+        },
+        {
+          "qg_id": "asthma_drugA",
+          "kg_id": [
+            "MONDO:0004979_AvgDailyPM2.5Exposure_2_qcut_MESH:D052638"
+          ]
+        },
+        {
+          "qg_id": "geneA_drugA",
+          "kg_id": [
+            "MESH:D052638--related_to--NCBIGene:85480"
+          ]
+        },
+        {
+          "qg_id": "geneA_geneB",
+          "kg_id": [
+            "512d7d6adb53958f7967c0a7bdcce38b"
+          ]
+        },
+        {
+          "qg_id": "geneB_drugB",
+          "kg_id": [
+            "8aa05690-1869-4f8c-9a82-31669ded886a",
+            "fcb2ca95-d650-47f4-84d3-9ab39ce9f4eb"
+          ]
+        },
+        {
+          "qg_id": "extra_qe_0",
+          "kg_id": [
+            "8947733283691328586",
+            "-4328836621778800112"
+          ]
+        }
+      ],
+      "extra_nodes": null,
+      "extra_edges": null,
+      "score": 0.024568994771672754
+    }
+  ]
+}
