@@ -1,0 +1,14 @@
+{
+    "Query Title": "4. Correlated with chemical substances",
+    "Query Description": "Chemical Substances Correlated with Asthma (MONDO:0004979)",
+    "standup_date": "2021-03-18",
+    "query_location": "https://raw.githubusercontent.com/NCATSTranslator/testing/main/ars-requests/not-none/correlatedWith.json",
+    "github_issue": "https://github.com/NCATSTranslator/testing/issues/12",
+    "ARS_Results": [
+        {
+            "ARS_result_date": "2021-03-18",
+            "ARS_result_id": "2f8345d3-a8e4-4bbd-aee8-c2eb1884eecf",
+            "Comment": ""
+        }
+    ]
+}

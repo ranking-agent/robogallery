@@ -1,0 +1,19 @@
+{
+    "Query Title": "3. Named Thing",
+    "Query Description": "What things are related to Acrocyanosis (UMLS:C0221347)",
+    "standup_date": "2021-03-16",
+    "query_location": "https://raw.githubusercontent.com/NCATSTranslator/testing/main/ars-requests/not-none/acrocyanosis.json",
+    "github_issue": "https://github.com/NCATSTranslator/testing/issues/12",
+    "ARS_Results": [
+        {
+            "ARS_result_date": "2021-03-16",
+            "ARS_result_id": "8c6ae8db-1af9-49ae-a9f5-99181bd3dd4b",
+            "Comment": ""
+        },
+        {
+            "ARS_result_date": "2021-03-17",
+            "ARS_result_id": "58846701-a542-487c-8602-ef7ff04fb7fa",
+            "Comment": ""
+        }
+    ]
+}

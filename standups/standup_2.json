@@ -1,0 +1,29 @@
+{
+    "Query Title": "2. Chemicals to Gene",
+    "Query Description": "What chemicals are associated with SMS (UniProtKB:P52788)",
+    "standup_date": "2021-03-12",
+    "query_location": "https://raw.githubusercontent.com/NCATSTranslator/testing/main/ars-requests/not-none/spmsyChemicals.json",
+    "github_issue": "https://github.com/NCATSTranslator/testing/issues/10",
+    "ARS_Results": [
+        {
+            "ARS_result_date": "2021-03-02",
+            "ARS_result_id": "d187edcd-f4a1-42e8-9248-eee0cb161fdb",
+            "Comment": ""
+        },
+        {
+            "ARS_result_date": "2021-03-16",
+            "ARS_result_id": "5ae7b3a8-ab4d-4282-a027-80a7116f1265",
+            "Comment": ""
+        },
+        {
+            "ARS_result_date": "2021-03-19",
+            "ARS_result_id": "0f16dbfa-444a-409f-a7b2-9d11506b0d1c",
+            "Comment": "Using HGNC:11123"
+        },
+        {
+            "ARS_result_date": "2021-03-25",
+            "ARS_result_id": "8675552b-34b1-46eb-a4f0-3e34179a1e12",
+            "Comment": "UniProtK: P52788, no category"
+        }
+    ]
+}

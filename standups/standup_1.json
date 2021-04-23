@@ -1,0 +1,24 @@
+{
+    "Query Title": "1. Gene to Pathway",
+    "Query Description": "What pathways are associated with CDK2 (NCBIGene:1017)",
+    "standup_date": "2021-03-09",
+    "query_location": "https://raw.githubusercontent.com/NCATSTranslator/testing/main/ars-requests/not-none/pathway.json",
+    "github_issue": "https://github.com/NCATSTranslator/testing/issues/9",
+    "ARS_Results": [
+        {
+            "ARS_result_date": "2021-03-09",
+            "ARS_result_id": "5e3f38b6-2b23-479c-b04e-81fce973ca52",
+            "Comment": ""
+        },
+        {
+            "ARS_result_date": "2021-03-10",
+            "ARS_result_id": "4525e749-aef6-4025-9c54-b90cfd064305",
+            "Comment": ""
+        },
+        {
+            "ARS_result_date": "2021-03-18",
+            "ARS_result_id": "56085e63-c878-4634-8a70-69810f858e1e",
+            "Comment": ""
+        }
+    ]
+}

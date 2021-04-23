@@ -1,0 +1,20 @@
+{
+    "Query Title": "6. Multiple predicates",
+    "Query Description": "get Chemical Substances that downregulate/decrease STK11 (HGNC:11389)",
+    "standup_date": "2021-03-26",
+    "query_location": "https://raw.githubusercontent.com/NCATSTranslator/testing/main/ars-requests/not-none/stk11downregulators.json",
+    "github_issue": "https://github.com/NCATSTranslator/testing/issues/28",
+    "ARS_Results": [
+        {
+            "ARS_result_date": "2021-03-26",
+            "ARS_result_id": "5b6ccd27-cc3a-46eb-8427-10f865c1de32",
+            "Comment": ""
+        },
+        {
+            "ARS_result_date": "2021-04-01",
+            "ARS_result_id": "e27f42e1-667a-4280-b3fc-341ad95a7d04",
+            "Comment": ""
+        }
+
+    ]
+}

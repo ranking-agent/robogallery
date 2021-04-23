@@ -1,0 +1,20 @@
+{
+    "Query Title": "5. Disease(s) treated by Drug",
+    "Query Description": "Diseases treatedby beclomethason diproprionate (DrugBank:00394)",
+    "standup_date": "2021-03-22",
+    "query_location": "https://raw.githubusercontent.com/NCATSTranslator/testing/main/ars-requests/not-none/beclomathasone.json",
+    "github_issue": "https://github.com/NCATSTranslator/testing/issues/20",
+    "ARS_Results": [
+        {
+            "ARS_result_date": "2021-03-22",
+            "ARS_result_id": "639a44f4-865f-426d-83b7-e4e4e039d0de",
+            "Comment": ""
+        },
+        {
+            "ARS_result_date": "2021-03-24",
+            "ARS_result_id": "f828885e-425b-413c-a2d5-48e0503a54d8",
+            "Comment": ""
+        }
+
+    ]
+}

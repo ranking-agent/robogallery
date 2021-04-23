@@ -1,0 +1,14 @@
+{
+    "Query Title": "7. Disease Phenotypes",
+    "Query Description": "get phenotypes for Angel-shaped phalango-epiphyseal dysplasia(MONDO:0007114)",
+    "standup_date": "2021-04-01",
+    "query_location": "https://raw.githubusercontent.com/NCATSTranslator/testing/main/ars-requests/not-none/rarePhenotype.json",
+    "github_issue": "https://github.com/NCATSTranslator/testing/issues/33",
+    "ARS_Results": [
+        {
+            "ARS_result_date": "2021-04-01",
+            "ARS_result_id": "d7dbec86-ceb7-4bbd-adef-0c240d615015",
+            "Comment": ""
+        }
+    ]
+}
