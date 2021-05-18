@@ -1,0 +1,5696 @@
+[
+  {
+    "subject": "NCBIGene:9370",
+    "object_name": "fenofibrate",
+    "object": "CHEBI:5001",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:9370",
+    "object_name": "spironolactone",
+    "object": "CHEBI:9241",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:9370",
+    "object_name": "nevirapine",
+    "object": "CHEBI:63613",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "5-Bromo-2-(4-fluorophenyl)-3-(4-methylsulfonylphenyl)thiophene",
+    "object": "PUBCHEM.COMPOUND:3177",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "1-(2,4-Difluorophenyl)-3-(4-(6,7-dimethoxyquinolin-4-yloxy)-2-fluorophenyl)urea",
+    "object": "PUBCHEM.COMPOUND:11317348",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Torsemide",
+    "object": "PUBCHEM.COMPOUND:41781",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Flupentixol",
+    "object": "PUBCHEM.COMPOUND:5281881",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "N'-Acetyl-3-chloro-6H-benzo[b][1,4]benzoxazepine-5-carbohydrazide",
+    "object": "PUBCHEM.COMPOUND:4336830",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "3-(4-Amino-1-propan-2-ylpyrazolo[3,4-d]pyrimidin-3-yl)-N-(3,4-dihydro-2H-pyrrol-5-yl)benzamide",
+    "object": "PUBCHEM.COMPOUND:73707372",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "N-(2-(Methylamino)ethyl)-5-isoquinolinesulfonamide",
+    "object": "PUBCHEM.COMPOUND:3540",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Palbociclib",
+    "object": "PUBCHEM.COMPOUND:5330286",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Zibotentan",
+    "object": "PUBCHEM.COMPOUND:9910224",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Pyridoxal phosphate",
+    "object": "CHEBI:18405",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Talipexole",
+    "object": "PUBCHEM.COMPOUND:5374",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Olopatadine",
+    "object": "PUBCHEM.COMPOUND:5281071",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "10,10-Bis[(2-fluoro-4-pyridinyl)methyl]-9(10H)-anthracenone",
+    "object": "PUBCHEM.COMPOUND:9887884",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "2-Amino-3-(3-hydroxy-5-tert-butylisoxazol-4-yl)propionic acid",
+    "object": "PUBCHEM.COMPOUND:2253",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Flavanone",
+    "object": "PUBCHEM.COMPOUND:10251",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Tinidazole",
+    "object": "PUBCHEM.COMPOUND:5479",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Phorbol myristate acetate",
+    "object": "PUBCHEM.COMPOUND:4792",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Docosahexaenoic acid",
+    "object": "PUBCHEM.COMPOUND:445580",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Alfaxalone",
+    "object": "PUBCHEM.COMPOUND:104845",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "2-[2-(2,5-Dimethyl-1-phenylpyrrol-3-yl)ethyl]-N,N,1-trimethylquinolin-1-ium-6-amine",
+    "object": "PUBCHEM.COMPOUND:73707397",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Malonoben",
+    "object": "PUBCHEM.COMPOUND:5614",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Sotalol",
+    "object": "PUBCHEM.COMPOUND:5253",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Etoposide",
+    "object": "PUBCHEM.COMPOUND:36462",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "cysteine zwitterion",
+    "object": "CHEBI:35237",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "[[(1S,2S,5R)-5-Methyl-2-propan-2-ylcyclohexyl]-phenylphosphoryl]benzene",
+    "object": "PUBCHEM.COMPOUND:21678144",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "CID 57448257",
+    "object": "PUBCHEM.COMPOUND:57448257",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Pirenzepine",
+    "object": "PUBCHEM.COMPOUND:4848",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "(2S,6S,7S,9R,11R,12R,15R,16R)-6-Hydroxy-15-[1-[(2S)-5-(hydroxymethyl)-4-methyl-6-oxo-2,3-dihydropyran-2-yl]ethyl]-2,16-dimethyl-8-oxapentacyclo[9.7.0.02,7.07,9.012,16]octadec-4-en-3-one",
+    "object": "PUBCHEM.COMPOUND:73707417",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "2-Amino-6-methyl-4-propyl-[1,2,4]triazolo[1,5-a]pyrimidin-5(4H)-one",
+    "object": "PUBCHEM.COMPOUND:62824",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "1-Butyl-3-(3-hydroxypropyl)-8-(2,5-methanooctahydropentalene-3a-yl)-3,7-dihydro-1H-purine-2,6-dione",
+    "object": "PUBCHEM.COMPOUND:11689583",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "1-(2-Methylbenzo[d]oxazol-6-yl)-3-(1,5-naphthyridin-4-yl)urea",
+    "object": "PUBCHEM.COMPOUND:6604926",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "1-[(7-Methyl-2,3-dihydro-1H-inden-4-yl)oxy]-3-(propan-2-ylamino)-2-butanol",
+    "object": "PUBCHEM.COMPOUND:3682",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "CID 60773",
+    "object": "PUBCHEM.COMPOUND:60773",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Miglitol",
+    "object": "PUBCHEM.COMPOUND:441314",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Moxonidine",
+    "object": "PUBCHEM.COMPOUND:4810",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Tyrphostin A1",
+    "object": "PUBCHEM.COMPOUND:2063",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "(13S,17R)-17-Ethynyl-13-methyl-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthrene-3,17-diol",
+    "object": "PUBCHEM.COMPOUND:24707",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "1-(2-Naphthalenyl)-2-propen-1-one",
+    "object": "PUBCHEM.COMPOUND:3799",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Nemonapride",
+    "object": "PUBCHEM.COMPOUND:4452",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "2-[2-(5-Bromo-1H-indol-3-YL)ethyl]-3-[3-(1-methylethoxy)phenyl]-4-(3H)-quinazolinone",
+    "object": "PUBCHEM.COMPOUND:4355450",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Imiloxan",
+    "object": "PUBCHEM.COMPOUND:133621",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "2-Cyano-N-(2,5-dibromophenyl)-3-oxobutanamide",
+    "object": "PUBCHEM.COMPOUND:9906875",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "1h-[1,2,4]Oxadiazolo[4,3-a]quinoxalin-1-one",
+    "object": "PUBCHEM.COMPOUND:1456",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Tosufloxacin",
+    "object": "PUBCHEM.COMPOUND:5517",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "PDK1 inhibitor",
+    "object": "PUBCHEM.COMPOUND:49766501",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Cysteine",
+    "object": "CHEBI:17561",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Pidotimod",
+    "object": "PUBCHEM.COMPOUND:65944",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "1-(2-(Diphenylmethoxy)ethyl)-4-(3-phenyl-2-propenyl)piperazine",
+    "object": "PUBCHEM.COMPOUND:5788723",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "N-[(6R)-6-(Dimethylamino)-6,7,8,9-tetrahydro-5H-carbazol-3-yl]-4-fluorobenzamide",
+    "object": "PUBCHEM.COMPOUND:5311097",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Metanephrine",
+    "object": "PUBCHEM.COMPOUND:21100",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Lobendazole",
+    "object": "PUBCHEM.COMPOUND:22752",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Mocetinostat",
+    "object": "PUBCHEM.COMPOUND:9865515",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Ethotoin",
+    "object": "PUBCHEM.COMPOUND:3292",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "(4R)-4-[(10S,13R,17R)-10,13-Dimethyl-3,7,12-trioxo-1,2,4,5,6,8,9,11,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-17-yl]pentanoic acid",
+    "object": "PUBCHEM.COMPOUND:6602440",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "2-Hydroxy-2-[(1R)-1-methoxyethyl]-3-methylbutanoic acid [(7S,8R)-7-hydroxy-5,6,7,8-tetrahydro-3H-pyrrolizin-1-yl]methyl ester",
+    "object": "PUBCHEM.COMPOUND:23930397",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Paxilline",
+    "object": "PUBCHEM.COMPOUND:105008",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Nabumetone",
+    "object": "PUBCHEM.COMPOUND:4409",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "(2R,3S)-3-(6-Amino-9H-purin-9-yl)nonan-2-ol",
+    "object": "PUBCHEM.COMPOUND:149784",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "N-[2-[4-[3-[4-Amino-5-chloro-2-[(3,5-dimethoxyphenyl)methoxy]phenyl]-3-oxopropyl]piperidin-1-yl]ethyl]methanesulfonamide",
+    "object": "PUBCHEM.COMPOUND:5145950",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Prostratin",
+    "object": "PUBCHEM.COMPOUND:454217",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "MK-2206",
+    "object": "PUBCHEM.COMPOUND:24964624",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Pefloxacin",
+    "object": "PUBCHEM.COMPOUND:51081",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Hexylresorcinol",
+    "object": "PUBCHEM.COMPOUND:3610",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Peucedanin",
+    "object": "PUBCHEM.COMPOUND:8616",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "VX-702",
+    "object": "PUBCHEM.COMPOUND:10341154",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "1-(2,4-Dichlorophenyl)-5-(4-iodophenyl)-4-methyl-N-(piperidin-1-yl)-1H-pyrazole-3-carboxamide",
+    "object": "PUBCHEM.COMPOUND:2125",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Maleic Acid",
+    "object": "CHEBI:18300",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Dehydrocholic acid",
+    "object": "PUBCHEM.COMPOUND:6674",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "2,2-Dimethylpropanoic acid [(2S)-2-[(3S,9R,10R)-16-[[anilino(oxo)methyl]amino]-9-[[(4-fluorophenyl)sulfonyl-methylamino]methyl]-3,10-dimethyl-13-oxo-2,8-dioxa-12-azabicyclo[12.4.0]octadeca-1(14),15,17-trien-12-yl]propyl] ester",
+    "object": "PUBCHEM.COMPOUND:49849931",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Levosulpiride",
+    "object": "PUBCHEM.COMPOUND:688272",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "2-[1-[[1-[3-[(E)-2-(7-Chloroquinolin-2-yl)ethenyl]phenyl]-3-[2-(2-hydroxypropan-2-yl)phenyl]propyl]sulfanylmethyl]cyclopropyl]acetic acid",
+    "object": "PUBCHEM.COMPOUND:5284590",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Secnidazole",
+    "object": "PUBCHEM.COMPOUND:71815",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "CID 5225086",
+    "object": "PUBCHEM.COMPOUND:5225086",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Saquinavir",
+    "object": "PUBCHEM.COMPOUND:441243",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "N-[(4,7-Dimethyl-6,6a,8,9,10,10a-hexahydroindolo[4,3-fg]quinoline-9-yl)methyl]carbamic acid (phenylmethyl) ester",
+    "object": "PUBCHEM.COMPOUND:4090",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "3-Methylbutanoic acid [(2R,3S,6S,7R,8R)-3-[[(3-formamido-2-hydroxyphenyl)-oxomethyl]amino]-2,6-dimethyl-4,9-dioxo-8-pentyl-1,5-dioxonan-7-yl] ester",
+    "object": "PUBCHEM.COMPOUND:5702199",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Nicorandil",
+    "object": "PUBCHEM.COMPOUND:47528",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Thiorphan",
+    "object": "PUBCHEM.COMPOUND:3132",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "3,4,8,10-Tetrahydroxy-2-(hydroxymethyl)-9-methoxy-3,4,4a,10b-tetrahydro-2H-pyrano[3,2-c]isochromen-6-one",
+    "object": "PUBCHEM.COMPOUND:2356",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Isoeugenitol",
+    "object": "PUBCHEM.COMPOUND:5318562",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Nonoxynol-9",
+    "object": "PUBCHEM.COMPOUND:72385",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "1-(4-Methanesulfonamidophenoxy)-3-(N-methyl-3,4-dichlorophenylethylamino)-2-propanol",
+    "object": "PUBCHEM.COMPOUND:2129",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "4-Chlorophenol",
+    "object": "PUBCHEM.COMPOUND:4684",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Telenzepine",
+    "object": "PUBCHEM.COMPOUND:5387",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Papaverine",
+    "object": "PUBCHEM.COMPOUND:4680",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "2-(3,4-Dichlorophenyl)-1-[2-(1-pyrrolidinylmethyl)-1-piperidinyl]ethanone",
+    "object": "PUBCHEM.COMPOUND:5244802",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "9-Chloro-2-(2-furyl)-(1,2,4)triazolo(1,5-c)quinazolin-5-imine",
+    "object": "PUBCHEM.COMPOUND:2690",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Irinotecan",
+    "object": "PUBCHEM.COMPOUND:60838",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Proparacaine",
+    "object": "PUBCHEM.COMPOUND:4935",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Gemcitabine",
+    "object": "PUBCHEM.COMPOUND:60750",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Flurbiprofen",
+    "object": "PUBCHEM.COMPOUND:3394",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "5,7-Dihydroxy-2-(4-hydroxyphenyl)chroman-4-one",
+    "object": "PUBCHEM.COMPOUND:932",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "11,33-Bis(cyclopropylmethyl)-19,25-dioxa-11,22,33-triazaundecacyclo[24.9.1.18,14.01,24.02,32.04,23.05,21.07,12.08,20.030,36.018,37]heptatriaconta-4(23),5(21),14(37),15,17,26,28,30(36)-octaene-2,7,17,27-tetrol",
+    "object": "PUBCHEM.COMPOUND:4533",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "2,3,4,5-Tetrabromo-6-(3-hydroxy-6-oxo-9-xanthenyl)benzoic acid",
+    "object": "PUBCHEM.COMPOUND:275510",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "(Z)-2-Cyano-3-[3-ethoxy-4-hydroxy-5-(phenylsulfanylmethyl)phenyl]prop-2-enamide",
+    "object": "PUBCHEM.COMPOUND:5353962",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Oxaprozin",
+    "object": "PUBCHEM.COMPOUND:4614",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Relcovaptan",
+    "object": "PUBCHEM.COMPOUND:60943",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Fluxid",
+    "object": "PUBCHEM.COMPOUND:5353622",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Olmesartan",
+    "object": "PUBCHEM.COMPOUND:158781",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "6-Benzylaminopurine",
+    "object": "PUBCHEM.COMPOUND:62389",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Bicalutamide",
+    "object": "PUBCHEM.COMPOUND:2375",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Retrorsine",
+    "object": "PUBCHEM.COMPOUND:5281743",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "(1R)-1-[(2S,3R)-3-[(E)-2-[(2S,3R)-3-[(1R)-1-Hydroxyethyl]oxiran-2-yl]ethenyl]oxiran-2-yl]prop-2-en-1-ol",
+    "object": "PUBCHEM.COMPOUND:10420710",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "2-Amino-4-[4-(2-bromo-4,5-difluorophenoxy)anilino]-4-oxobutanoic acid",
+    "object": "PUBCHEM.COMPOUND:24868316",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Artemether",
+    "object": "PUBCHEM.COMPOUND:68911",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Ampiroxicam",
+    "object": "PUBCHEM.COMPOUND:2176",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "N-(3-{[5-Iodo-4-({3-[(Thiophen-2-Ylcarbonyl)amino]propyl}amino)pyrimidin-2-Yl]amino}phenyl)pyrrolidine-1-Carboxamide",
+    "object": "PUBCHEM.COMPOUND:10077147",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Eicosadienoic acid",
+    "object": "PUBCHEM.COMPOUND:6439848",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Eticlopride",
+    "object": "PUBCHEM.COMPOUND:57267",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "3-Methyl-6-[3-(trifluoromethyl)phenyl]-[1,2,4]triazolo[4,3-b]pyridazine",
+    "object": "PUBCHEM.COMPOUND:107950",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Tyrphostin AG 126",
+    "object": "PUBCHEM.COMPOUND:2046",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Metyrapone",
+    "object": "PUBCHEM.COMPOUND:4174",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "3-(4,5-Dihydro-1H-imidazol-2-yl)isoquinoline",
+    "object": "PUBCHEM.COMPOUND:3410883",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Hydroflumethiazide",
+    "object": "PUBCHEM.COMPOUND:3647",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Dihydroegotamine",
+    "object": "PUBCHEM.COMPOUND:3066",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Methapyrilene",
+    "object": "PUBCHEM.COMPOUND:4098",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Aripiprazole",
+    "object": "PUBCHEM.COMPOUND:60795",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "2-[3-[1-[[2-(3,4-Dichlorophenyl)acetyl]-methylamino]-2-pyrrolidin-1-ylethyl]phenoxy]acetic acid",
+    "object": "PUBCHEM.COMPOUND:3683",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Maltol",
+    "object": "PUBCHEM.COMPOUND:8369",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Olaparib",
+    "object": "PUBCHEM.COMPOUND:23725625",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Glutamic acid",
+    "object": "CHEBI:16015",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "N-[4-(9-Acridinylmethyl)-3-methoxyphenyl]methanesulfonamide",
+    "object": "PUBCHEM.COMPOUND:3926765",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "2-Oxo-1,4-dihydroquinazoline-3-carboxylic acid [(1R,5S)-8-methyl-8-azabicyclo[3.2.1]octan-3-yl] ester",
+    "object": "PUBCHEM.COMPOUND:16759155",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "2-Methoxyidazoxan",
+    "object": "PUBCHEM.COMPOUND:108094",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "3-[({4-[4-({[1-(2-Chlorophenyl)ethoxy]carbonyl}amino)-3-methyl-1,2-oxazol-5-yl]phenyl}methyl)sulfanyl]propanoic acid",
+    "object": "PUBCHEM.COMPOUND:10367662",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "(1E,6E)-1-(3-Hydroxy-2-methoxyphenyl)-7-(3-hydroxy-4-methoxyphenyl)hepta-1,6-diene-3,5-dione",
+    "object": "PUBCHEM.COMPOUND:16760039",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "2-[[2-[[2-Amino-4-(methylthio)-1-oxobutyl]amino]-4-methyl-1-oxopentyl]amino]-3-phenylpropanoic acid",
+    "object": "PUBCHEM.COMPOUND:4105",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "11-[[4-[4-(Diethylamino)butyl]-1-piperidinyl]acetyl]-5,11-dihydro-6H-pyrido[2,3-B][1,4]benzodiazepin-6-one",
+    "object": "PUBCHEM.COMPOUND:129989",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "3-(4-t-Butylphenyl)-N-(2,3-dihydrobenzo(b)(1,4)dioxin-6-yl)acrylamide",
+    "object": "PUBCHEM.COMPOUND:680502",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Aspartic acid",
+    "object": "CHEBI:17053",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Chlorphenesin carbamate",
+    "object": "PUBCHEM.COMPOUND:2724",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "2-Cyano-3-oxo-N-[4-(trifluoromethoxy)phenyl]butanamide",
+    "object": "PUBCHEM.COMPOUND:9795867",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Copper",
+    "object": "CHEBI:28694",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Midostaurin",
+    "object": "PUBCHEM.COMPOUND:9829523",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Carteolol",
+    "object": "PUBCHEM.COMPOUND:2583",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Cytarabine",
+    "object": "PUBCHEM.COMPOUND:6253",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Oxotremorine",
+    "object": "PUBCHEM.COMPOUND:4630",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "(6Ar)-1-hydroxy-6,6-dimethyl-3-pentyl-6a,7,8,10a-tetrahydrobenzo[c][1]benzopyran-9-carboxylic acid",
+    "object": "PUBCHEM.COMPOUND:6610319",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Bisphenol A diglycidyl ether",
+    "object": "PUBCHEM.COMPOUND:2286",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Clarithromycin",
+    "object": "PUBCHEM.COMPOUND:84029",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "(1S,2R,4As,6aS,6bR,9R,10R,11R,12aR,14bS)-10,11-dihydroxy-9-(hydroxymethyl)-1,2,6a,6b,9,12a-hexamethyl-2,3,4,5,6,6a,7,8,8a,10,11,12,13,14b-tetradecahydro-1H-picene-4a-carboxylic acid",
+    "object": "PUBCHEM.COMPOUND:5320556",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Imiloxan",
+    "object": "PUBCHEM.COMPOUND:133621",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "5-Bromo-2-(4-fluorophenyl)-3-(4-methylsulfonylphenyl)thiophene",
+    "object": "PUBCHEM.COMPOUND:3177",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "2-(3,4-Dichlorophenyl)-1-[2-(1-pyrrolidinylmethyl)-1-piperidinyl]ethanone",
+    "object": "PUBCHEM.COMPOUND:5244802",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Olmesartan",
+    "object": "PUBCHEM.COMPOUND:158781",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "10,10-Bis[(2-fluoro-4-pyridinyl)methyl]-9(10H)-anthracenone",
+    "object": "PUBCHEM.COMPOUND:9887884",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Dihydroegotamine",
+    "object": "PUBCHEM.COMPOUND:3066",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Flavanone",
+    "object": "PUBCHEM.COMPOUND:10251",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "N-[2-[4-[3-[4-Amino-5-chloro-2-[(3,5-dimethoxyphenyl)methoxy]phenyl]-3-oxopropyl]piperidin-1-yl]ethyl]methanesulfonamide",
+    "object": "PUBCHEM.COMPOUND:5145950",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Hexylresorcinol",
+    "object": "PUBCHEM.COMPOUND:3610",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Papaverine",
+    "object": "PUBCHEM.COMPOUND:4680",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Glutamic acid",
+    "object": "CHEBI:16015",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Nonoxynol-9",
+    "object": "PUBCHEM.COMPOUND:72385",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Olaparib",
+    "object": "PUBCHEM.COMPOUND:23725625",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Irinotecan",
+    "object": "PUBCHEM.COMPOUND:60838",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "11-[[4-[4-(Diethylamino)butyl]-1-piperidinyl]acetyl]-5,11-dihydro-6H-pyrido[2,3-B][1,4]benzodiazepin-6-one",
+    "object": "PUBCHEM.COMPOUND:129989",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "1-(2-Methylbenzo[d]oxazol-6-yl)-3-(1,5-naphthyridin-4-yl)urea",
+    "object": "PUBCHEM.COMPOUND:6604926",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "N-(3-{[5-Iodo-4-({3-[(Thiophen-2-Ylcarbonyl)amino]propyl}amino)pyrimidin-2-Yl]amino}phenyl)pyrrolidine-1-Carboxamide",
+    "object": "PUBCHEM.COMPOUND:10077147",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Aripiprazole",
+    "object": "PUBCHEM.COMPOUND:60795",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Malonoben",
+    "object": "PUBCHEM.COMPOUND:5614",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "9-Chloro-2-(2-furyl)-(1,2,4)triazolo(1,5-c)quinazolin-5-imine",
+    "object": "PUBCHEM.COMPOUND:2690",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Saquinavir",
+    "object": "PUBCHEM.COMPOUND:441243",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Moxonidine",
+    "object": "PUBCHEM.COMPOUND:4810",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Prostratin",
+    "object": "PUBCHEM.COMPOUND:454217",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "[[(1S,2S,5R)-5-Methyl-2-propan-2-ylcyclohexyl]-phenylphosphoryl]benzene",
+    "object": "PUBCHEM.COMPOUND:21678144",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "(1S,2R,4As,6aS,6bR,9R,10R,11R,12aR,14bS)-10,11-dihydroxy-9-(hydroxymethyl)-1,2,6a,6b,9,12a-hexamethyl-2,3,4,5,6,6a,7,8,8a,10,11,12,13,14b-tetradecahydro-1H-picene-4a-carboxylic acid",
+    "object": "PUBCHEM.COMPOUND:5320556",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "3-(4-Amino-1-propan-2-ylpyrazolo[3,4-d]pyrimidin-3-yl)-N-(3,4-dihydro-2H-pyrrol-5-yl)benzamide",
+    "object": "PUBCHEM.COMPOUND:73707372",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "1-(2-Naphthalenyl)-2-propen-1-one",
+    "object": "PUBCHEM.COMPOUND:3799",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "VX-702",
+    "object": "PUBCHEM.COMPOUND:10341154",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "2,2-Dimethylpropanoic acid [(2S)-2-[(3S,9R,10R)-16-[[anilino(oxo)methyl]amino]-9-[[(4-fluorophenyl)sulfonyl-methylamino]methyl]-3,10-dimethyl-13-oxo-2,8-dioxa-12-azabicyclo[12.4.0]octadeca-1(14),15,17-trien-12-yl]propyl] ester",
+    "object": "PUBCHEM.COMPOUND:49849931",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Pirenzepine",
+    "object": "PUBCHEM.COMPOUND:4848",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Levosulpiride",
+    "object": "PUBCHEM.COMPOUND:688272",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Phorbol myristate acetate",
+    "object": "PUBCHEM.COMPOUND:4792",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Zibotentan",
+    "object": "PUBCHEM.COMPOUND:9910224",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Isoeugenitol",
+    "object": "PUBCHEM.COMPOUND:5318562",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Oxaprozin",
+    "object": "PUBCHEM.COMPOUND:4614",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Paxilline",
+    "object": "PUBCHEM.COMPOUND:105008",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Mocetinostat",
+    "object": "PUBCHEM.COMPOUND:9865515",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "2-Cyano-3-oxo-N-[4-(trifluoromethoxy)phenyl]butanamide",
+    "object": "PUBCHEM.COMPOUND:9795867",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Eticlopride",
+    "object": "PUBCHEM.COMPOUND:57267",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Proparacaine",
+    "object": "PUBCHEM.COMPOUND:4935",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Palbociclib",
+    "object": "PUBCHEM.COMPOUND:5330286",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "(13S,17R)-17-Ethynyl-13-methyl-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthrene-3,17-diol",
+    "object": "PUBCHEM.COMPOUND:24707",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "4-Chlorophenol",
+    "object": "PUBCHEM.COMPOUND:4684",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Torsemide",
+    "object": "PUBCHEM.COMPOUND:41781",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "2-[2-(2,5-Dimethyl-1-phenylpyrrol-3-yl)ethyl]-N,N,1-trimethylquinolin-1-ium-6-amine",
+    "object": "PUBCHEM.COMPOUND:73707397",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "3-(4-t-Butylphenyl)-N-(2,3-dihydrobenzo(b)(1,4)dioxin-6-yl)acrylamide",
+    "object": "PUBCHEM.COMPOUND:680502",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "2-Cyano-N-(2,5-dibromophenyl)-3-oxobutanamide",
+    "object": "PUBCHEM.COMPOUND:9906875",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Metyrapone",
+    "object": "PUBCHEM.COMPOUND:4174",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Gemcitabine",
+    "object": "PUBCHEM.COMPOUND:60750",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Docosahexaenoic acid",
+    "object": "PUBCHEM.COMPOUND:445580",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "6-Benzylaminopurine",
+    "object": "PUBCHEM.COMPOUND:62389",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Methapyrilene",
+    "object": "PUBCHEM.COMPOUND:4098",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Artemether",
+    "object": "PUBCHEM.COMPOUND:68911",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "3-Methylbutanoic acid [(2R,3S,6S,7R,8R)-3-[[(3-formamido-2-hydroxyphenyl)-oxomethyl]amino]-2,6-dimethyl-4,9-dioxo-8-pentyl-1,5-dioxonan-7-yl] ester",
+    "object": "PUBCHEM.COMPOUND:5702199",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Pyridoxal phosphate",
+    "object": "CHEBI:18405",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "(6Ar)-1-hydroxy-6,6-dimethyl-3-pentyl-6a,7,8,10a-tetrahydrobenzo[c][1]benzopyran-9-carboxylic acid",
+    "object": "PUBCHEM.COMPOUND:6610319",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "(1E,6E)-1-(3-Hydroxy-2-methoxyphenyl)-7-(3-hydroxy-4-methoxyphenyl)hepta-1,6-diene-3,5-dione",
+    "object": "PUBCHEM.COMPOUND:16760039",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Chlorphenesin carbamate",
+    "object": "PUBCHEM.COMPOUND:2724",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "PDK1 inhibitor",
+    "object": "PUBCHEM.COMPOUND:49766501",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "2,3,4,5-Tetrabromo-6-(3-hydroxy-6-oxo-9-xanthenyl)benzoic acid",
+    "object": "PUBCHEM.COMPOUND:275510",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Flupentixol",
+    "object": "PUBCHEM.COMPOUND:5281881",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Ethotoin",
+    "object": "PUBCHEM.COMPOUND:3292",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "1-Butyl-3-(3-hydroxypropyl)-8-(2,5-methanooctahydropentalene-3a-yl)-3,7-dihydro-1H-purine-2,6-dione",
+    "object": "PUBCHEM.COMPOUND:11689583",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Tinidazole",
+    "object": "PUBCHEM.COMPOUND:5479",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "N-[(6R)-6-(Dimethylamino)-6,7,8,9-tetrahydro-5H-carbazol-3-yl]-4-fluorobenzamide",
+    "object": "PUBCHEM.COMPOUND:5311097",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Secnidazole",
+    "object": "PUBCHEM.COMPOUND:71815",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Nicorandil",
+    "object": "PUBCHEM.COMPOUND:47528",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "2-[[2-[[2-Amino-4-(methylthio)-1-oxobutyl]amino]-4-methyl-1-oxopentyl]amino]-3-phenylpropanoic acid",
+    "object": "PUBCHEM.COMPOUND:4105",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "3-[({4-[4-({[1-(2-Chlorophenyl)ethoxy]carbonyl}amino)-3-methyl-1,2-oxazol-5-yl]phenyl}methyl)sulfanyl]propanoic acid",
+    "object": "PUBCHEM.COMPOUND:10367662",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Oxotremorine",
+    "object": "PUBCHEM.COMPOUND:4630",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "1-(2,4-Difluorophenyl)-3-(4-(6,7-dimethoxyquinolin-4-yloxy)-2-fluorophenyl)urea",
+    "object": "PUBCHEM.COMPOUND:11317348",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Pidotimod",
+    "object": "PUBCHEM.COMPOUND:65944",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "2-[3-[1-[[2-(3,4-Dichlorophenyl)acetyl]-methylamino]-2-pyrrolidin-1-ylethyl]phenoxy]acetic acid",
+    "object": "PUBCHEM.COMPOUND:3683",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Bisphenol A diglycidyl ether",
+    "object": "PUBCHEM.COMPOUND:2286",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Fluxid",
+    "object": "PUBCHEM.COMPOUND:5353622",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Talipexole",
+    "object": "PUBCHEM.COMPOUND:5374",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Retrorsine",
+    "object": "PUBCHEM.COMPOUND:5281743",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "N-(2-(Methylamino)ethyl)-5-isoquinolinesulfonamide",
+    "object": "PUBCHEM.COMPOUND:3540",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "1-(2,4-Dichlorophenyl)-5-(4-iodophenyl)-4-methyl-N-(piperidin-1-yl)-1H-pyrazole-3-carboxamide",
+    "object": "PUBCHEM.COMPOUND:2125",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "11,33-Bis(cyclopropylmethyl)-19,25-dioxa-11,22,33-triazaundecacyclo[24.9.1.18,14.01,24.02,32.04,23.05,21.07,12.08,20.030,36.018,37]heptatriaconta-4(23),5(21),14(37),15,17,26,28,30(36)-octaene-2,7,17,27-tetrol",
+    "object": "PUBCHEM.COMPOUND:4533",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Maltol",
+    "object": "PUBCHEM.COMPOUND:8369",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Metanephrine",
+    "object": "PUBCHEM.COMPOUND:21100",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "1-(4-Methanesulfonamidophenoxy)-3-(N-methyl-3,4-dichlorophenylethylamino)-2-propanol",
+    "object": "PUBCHEM.COMPOUND:2129",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "2-[1-[[1-[3-[(E)-2-(7-Chloroquinolin-2-yl)ethenyl]phenyl]-3-[2-(2-hydroxypropan-2-yl)phenyl]propyl]sulfanylmethyl]cyclopropyl]acetic acid",
+    "object": "PUBCHEM.COMPOUND:5284590",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "2-Hydroxy-2-[(1R)-1-methoxyethyl]-3-methylbutanoic acid [(7S,8R)-7-hydroxy-5,6,7,8-tetrahydro-3H-pyrrolizin-1-yl]methyl ester",
+    "object": "PUBCHEM.COMPOUND:23930397",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Lobendazole",
+    "object": "PUBCHEM.COMPOUND:22752",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Etoposide",
+    "object": "PUBCHEM.COMPOUND:36462",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Eicosadienoic acid",
+    "object": "PUBCHEM.COMPOUND:6439848",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "2-Oxo-1,4-dihydroquinazoline-3-carboxylic acid [(1R,5S)-8-methyl-8-azabicyclo[3.2.1]octan-3-yl] ester",
+    "object": "PUBCHEM.COMPOUND:16759155",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Hydroflumethiazide",
+    "object": "PUBCHEM.COMPOUND:3647",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Maleic Acid",
+    "object": "CHEBI:18300",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "N-[(4,7-Dimethyl-6,6a,8,9,10,10a-hexahydroindolo[4,3-fg]quinoline-9-yl)methyl]carbamic acid (phenylmethyl) ester",
+    "object": "PUBCHEM.COMPOUND:4090",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "1-(2-(Diphenylmethoxy)ethyl)-4-(3-phenyl-2-propenyl)piperazine",
+    "object": "PUBCHEM.COMPOUND:5788723",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "2-Amino-4-[4-(2-bromo-4,5-difluorophenoxy)anilino]-4-oxobutanoic acid",
+    "object": "PUBCHEM.COMPOUND:24868316",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "1-[(7-Methyl-2,3-dihydro-1H-inden-4-yl)oxy]-3-(propan-2-ylamino)-2-butanol",
+    "object": "PUBCHEM.COMPOUND:3682",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Ampiroxicam",
+    "object": "PUBCHEM.COMPOUND:2176",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Relcovaptan",
+    "object": "PUBCHEM.COMPOUND:60943",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Alfaxalone",
+    "object": "PUBCHEM.COMPOUND:104845",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "3,4,8,10-Tetrahydroxy-2-(hydroxymethyl)-9-methoxy-3,4,4a,10b-tetrahydro-2H-pyrano[3,2-c]isochromen-6-one",
+    "object": "PUBCHEM.COMPOUND:2356",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "N-[4-(9-Acridinylmethyl)-3-methoxyphenyl]methanesulfonamide",
+    "object": "PUBCHEM.COMPOUND:3926765",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Bicalutamide",
+    "object": "PUBCHEM.COMPOUND:2375",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Tyrphostin A1",
+    "object": "PUBCHEM.COMPOUND:2063",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Carteolol",
+    "object": "PUBCHEM.COMPOUND:2583",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "(1R)-1-[(2S,3R)-3-[(E)-2-[(2S,3R)-3-[(1R)-1-Hydroxyethyl]oxiran-2-yl]ethenyl]oxiran-2-yl]prop-2-en-1-ol",
+    "object": "PUBCHEM.COMPOUND:10420710",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Nemonapride",
+    "object": "PUBCHEM.COMPOUND:4452",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Tosufloxacin",
+    "object": "PUBCHEM.COMPOUND:5517",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "3-(4,5-Dihydro-1H-imidazol-2-yl)isoquinoline",
+    "object": "PUBCHEM.COMPOUND:3410883",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "3-Methyl-6-[3-(trifluoromethyl)phenyl]-[1,2,4]triazolo[4,3-b]pyridazine",
+    "object": "PUBCHEM.COMPOUND:107950",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "(Z)-2-Cyano-3-[3-ethoxy-4-hydroxy-5-(phenylsulfanylmethyl)phenyl]prop-2-enamide",
+    "object": "PUBCHEM.COMPOUND:5353962",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Flurbiprofen",
+    "object": "PUBCHEM.COMPOUND:3394",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "cysteine zwitterion",
+    "object": "CHEBI:35237",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "N'-Acetyl-3-chloro-6H-benzo[b][1,4]benzoxazepine-5-carbohydrazide",
+    "object": "PUBCHEM.COMPOUND:4336830",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "CID 5225086",
+    "object": "PUBCHEM.COMPOUND:5225086",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Dehydrocholic acid",
+    "object": "PUBCHEM.COMPOUND:6674",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Miglitol",
+    "object": "PUBCHEM.COMPOUND:441314",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "(2R,3S)-3-(6-Amino-9H-purin-9-yl)nonan-2-ol",
+    "object": "PUBCHEM.COMPOUND:149784",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Telenzepine",
+    "object": "PUBCHEM.COMPOUND:5387",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Aspartic acid",
+    "object": "CHEBI:17053",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Midostaurin",
+    "object": "PUBCHEM.COMPOUND:9829523",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Copper",
+    "object": "CHEBI:28694",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "2-[2-(5-Bromo-1H-indol-3-YL)ethyl]-3-[3-(1-methylethoxy)phenyl]-4-(3H)-quinazolinone",
+    "object": "PUBCHEM.COMPOUND:4355450",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "1h-[1,2,4]Oxadiazolo[4,3-a]quinoxalin-1-one",
+    "object": "PUBCHEM.COMPOUND:1456",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Nabumetone",
+    "object": "PUBCHEM.COMPOUND:4409",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Pefloxacin",
+    "object": "PUBCHEM.COMPOUND:51081",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "2-Amino-6-methyl-4-propyl-[1,2,4]triazolo[1,5-a]pyrimidin-5(4H)-one",
+    "object": "PUBCHEM.COMPOUND:62824",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Cytarabine",
+    "object": "PUBCHEM.COMPOUND:6253",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "5,7-Dihydroxy-2-(4-hydroxyphenyl)chroman-4-one",
+    "object": "PUBCHEM.COMPOUND:932",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Olopatadine",
+    "object": "PUBCHEM.COMPOUND:5281071",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "(4R)-4-[(10S,13R,17R)-10,13-Dimethyl-3,7,12-trioxo-1,2,4,5,6,8,9,11,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-17-yl]pentanoic acid",
+    "object": "PUBCHEM.COMPOUND:6602440",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "MK-2206",
+    "object": "PUBCHEM.COMPOUND:24964624",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Thiorphan",
+    "object": "PUBCHEM.COMPOUND:3132",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Clarithromycin",
+    "object": "PUBCHEM.COMPOUND:84029",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "CID 60773",
+    "object": "PUBCHEM.COMPOUND:60773",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Peucedanin",
+    "object": "PUBCHEM.COMPOUND:8616",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "2-Methoxyidazoxan",
+    "object": "PUBCHEM.COMPOUND:108094",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "CID 57448257",
+    "object": "PUBCHEM.COMPOUND:57448257",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Sotalol",
+    "object": "PUBCHEM.COMPOUND:5253",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "(2S,6S,7S,9R,11R,12R,15R,16R)-6-Hydroxy-15-[1-[(2S)-5-(hydroxymethyl)-4-methyl-6-oxo-2,3-dihydropyran-2-yl]ethyl]-2,16-dimethyl-8-oxapentacyclo[9.7.0.02,7.07,9.012,16]octadec-4-en-3-one",
+    "object": "PUBCHEM.COMPOUND:73707417",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Cysteine",
+    "object": "CHEBI:17561",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "2-Amino-3-(3-hydroxy-5-tert-butylisoxazol-4-yl)propionic acid",
+    "object": "PUBCHEM.COMPOUND:2253",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:2805",
+    "object_name": "Tyrphostin AG 126",
+    "object": "PUBCHEM.COMPOUND:2046",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:8527",
+    "object_name": "(Z)-5-((4-(Pyridin-4-yl)quinolin-6-yl)methylene)thiazolidine-2,4-dione",
+    "object": "PUBCHEM.COMPOUND:23582824",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:8527",
+    "object_name": "(8Ar,9R)-5-[[(2R,4aR,6R,7R,8R)-7,8-dihydroxy-2-thiophen-2-yl-4,4a,6,7,8,8a-hexahydropyrano[3,2-d][1,3]dioxin-6-yl]oxy]-9-(4-hydroxy-3,5-dimethoxyphenyl)-5a,6,8a,9-tetrahydro-5H-isobenzofuro[6,5-f][1,3]benzodioxol-8-one",
+    "object": "PUBCHEM.COMPOUND:6708778",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:8527",
+    "object_name": "Menadione",
+    "object": "PUBCHEM.COMPOUND:4055",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:8527",
+    "object_name": "Irinotecan",
+    "object": "PUBCHEM.COMPOUND:60838",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:8527",
+    "object_name": "3,5-Diamino-N-[amino-[(2,4-dichlorophenyl)methylimino]methyl]-6-chloro-2-pyrazinecarboxamide",
+    "object": "PUBCHEM.COMPOUND:6610300",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:8527",
+    "object_name": "1-(Tert-butyl)-3-(4-chlorophenyl)-1H-pyrazolo[3,4-d]pyrimidin-4-amine",
+    "object": "PUBCHEM.COMPOUND:4878",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:8527",
+    "object_name": "N-[4-(9-Acridinylmethyl)-3-methoxyphenyl]methanesulfonamide",
+    "object": "PUBCHEM.COMPOUND:3926765",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:8527",
+    "object_name": "Dasatinib",
+    "object": "PUBCHEM.COMPOUND:3062316",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:8527",
+    "object_name": "5-[(Z)-(5-Chloro-2-oxo-1,2-dihydro-3H-indol-3-ylidene)methyl]-N-[2-(diethylamino)ethyl]-2,4-dimethyl-1H-pyrrole-3-carboxamide",
+    "object": "PUBCHEM.COMPOUND:5329103",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:8527",
+    "object_name": "1-(Tert-Butyl)-3-(p-tolyl)-1H-pyrazolo[3,4-d]pyrimidin-4-amine",
+    "object": "PUBCHEM.COMPOUND:1400",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:8527",
+    "object_name": "Wortmannin from Penicillium funiculosum",
+    "object": "PUBCHEM.COMPOUND:3003565",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:8527",
+    "object_name": "Pharmakon1600-00330002",
+    "object": "PUBCHEM.COMPOUND:5702003",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:8527",
+    "object_name": "(+)-Camptothecin",
+    "object": "PUBCHEM.COMPOUND:2538",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:8527",
+    "object_name": "3-[[6-(3-Aminophenyl)-7H-pyrrolo[2,3-d]pyrimidin-4-yl]oxy]phenol",
+    "object": "PUBCHEM.COMPOUND:9549289",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:8527",
+    "object_name": "Reversine",
+    "object": "PUBCHEM.COMPOUND:210332",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:8527",
+    "object_name": "Taxifolin",
+    "object": "PUBCHEM.COMPOUND:439533",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:8527",
+    "object_name": "10-[(Dimethylamino)methyl]-4-ethyl-4,9-dihydroxy-1H-pyrano[3',4':6,7]indolizino[1,2-b]quinoline-3,14(4H,12H)-dione",
+    "object": "PUBCHEM.COMPOUND:5515",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:8527",
+    "object_name": "ER-27319 free base",
+    "object": "PUBCHEM.COMPOUND:9799509",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:8527",
+    "object_name": "3-(Carbamoylamino)-5-(3-fluorophenyl)-N-[(3R)-3-piperidinyl]-2-thiophenecarboxamide",
+    "object": "PUBCHEM.COMPOUND:67077825",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:8527",
+    "object_name": "O-phospho-L-serine",
+    "object": "CHEBI:15811",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:8527",
+    "object_name": "Epirubicin",
+    "object": "PUBCHEM.COMPOUND:41867",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:8527",
+    "object_name": "5-Chloro-N4-(2-(isopropylsulfonyl)phenyl)-N2-(2-methoxy-4-(4-(4-methylpiperazin-1-yl)piperidin-1-yl)phenyl)pyrimidine-2,4-diamine",
+    "object": "PUBCHEM.COMPOUND:16038120",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:8527",
+    "object_name": "Phosphatidyl serine",
+    "object": "CHEBI:18303",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:54576",
+    "object_name": "propofol",
+    "object": "CHEBI:44915",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:54576",
+    "object_name": "lamotrigine",
+    "object": "CHEBI:6367",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:54576",
+    "object_name": "SN-38",
+    "object": "CHEBI:8988",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:54576",
+    "object_name": "tranilast",
+    "object": "CHEBI:77572",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:54575",
+    "object_name": "etoposide",
+    "object": "CHEBI:4911",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:54575",
+    "object_name": "tranilast",
+    "object": "CHEBI:77572",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:54575",
+    "object_name": "mycophenolic acid",
+    "object": "CHEBI:168396",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:54575",
+    "object_name": "lamotrigine",
+    "object": "CHEBI:6367",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:54575",
+    "object_name": "SN-38",
+    "object": "CHEBI:8988",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:54575",
+    "object_name": "propofol",
+    "object": "CHEBI:44915",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:54575",
+    "object_name": "diclofenac",
+    "object": "CHEBI:47381",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:54575",
+    "object_name": "troglitazone",
+    "object": "CHEBI:9753",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:54575",
+    "object_name": "phenobarbital",
+    "object": "CHEBI:8069",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:339766",
+    "object_name": "SN-38",
+    "object": "CHEBI:8988",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "2-Isopropyl-N,2,3-trimethylbutanamide",
+    "object": "PUBCHEM.COMPOUND:65300",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "5-BENZYLOXYTRYPTAMINE",
+    "object": "CHEMBL.COMPOUND:CHEMBL1288652",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "WS-5",
+    "object": "PUBCHEM.COMPOUND:56929299",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "Menthoglycol",
+    "object": "PUBCHEM.COMPOUND:19100",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "3-[[5-Methyl-2-(1-methylethyl)cyclohexyl]oxy]propane-1,2-diol",
+    "object": "PUBCHEM.COMPOUND:5362595",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "(R)-3-((N-(1-(4-Fluorophenyl)ethyl)quinoline-3-carboxamido)methyl)benzoic acid",
+    "object": "PUBCHEM.COMPOUND:60195662",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "Cannabidiol",
+    "object": "CHEBI:69478",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "l-Menthol",
+    "object": "PUBCHEM.COMPOUND:16666",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "(-)-Isopulegol",
+    "object": "PUBCHEM.COMPOUND:170833",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "Dronabinol",
+    "object": "PUBCHEM.COMPOUND:16078",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "Hydroxycitronellal",
+    "object": "PUBCHEM.COMPOUND:7888",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "Nabiximols",
+    "object": "CHEMBL.COMPOUND:CHEMBL3833333",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "Thio-BCTC",
+    "object": "PUBCHEM.COMPOUND:21037647",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "Menthyl lactate",
+    "object": "PUBCHEM.COMPOUND:62151",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "N-Arachidonoyl dopamine",
+    "object": "PUBCHEM.COMPOUND:5282105",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "N-(3-Aminopropyl)-2-[(3-methylphenyl)methoxy]-N-(thiophen-2-ylmethyl)benzamide",
+    "object": "PUBCHEM.COMPOUND:16095384",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "clotrimazole",
+    "object": "CHEBI:3764",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "5-Benzyloxytryptamine",
+    "object": "PUBCHEM.COMPOUND:89576",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "Linalool",
+    "object": "PUBCHEM.COMPOUND:6549",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "N-Ethyl-p-menthane-3-carboxamide",
+    "object": "PUBCHEM.COMPOUND:62907",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "N-[(2R)-3,3-Difluoro-4-hydroxy-1-(triazol-2-yl)butan-2-yl]-3-fluoro-2-[3-(4-fluorophenyl)-1H-pyrazol-5-yl]benzamide",
+    "object": "PUBCHEM.COMPOUND:135138454",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "Levomenthol",
+    "object": "CHEBI:15409",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "CID 11675630",
+    "object": "PUBCHEM.COMPOUND:11675630",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "Camphor",
+    "object": "CHEBI:15396",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "Cannabidiol",
+    "object": "PUBCHEM.COMPOUND:644019",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "Clotrimazole",
+    "object": "PUBCHEM.COMPOUND:2812",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "Tetrahydrocannabivarin",
+    "object": "CHEMBL.COMPOUND:CHEMBL2387541",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "CHEMBL1289953",
+    "object": "CHEMBL.COMPOUND:CHEMBL1289953",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "(S)-camphor",
+    "object": "CHEBI:15397",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "Eucalyptol",
+    "object": "PUBCHEM.COMPOUND:2758",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "D-3263",
+    "object": "CHEMBL.COMPOUND:CHEMBL3707315",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "Linoleic acid",
+    "object": "PUBCHEM.COMPOUND:5280450",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "(1R,2S,5R)-5-Methyl-2-propan-2-yl-N-[4-(pyrimidin-2-ylsulfamoyl)phenyl]cyclohexane-1-carboxamide",
+    "object": "PUBCHEM.COMPOUND:56929387",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "1,4-Dioxaspiro[4.5]decane-2-methanol, 9-methyl-6-(1-methylethyl)-",
+    "object": "PUBCHEM.COMPOUND:162184",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "N-(p-Amylcinnamoyl)anthranilic acid",
+    "object": "PUBCHEM.COMPOUND:5353376",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "Capsazepine",
+    "object": "PUBCHEM.COMPOUND:2733484",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "WS-12",
+    "object": "PUBCHEM.COMPOUND:11266244",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "[(1R)-1-Phenylethyl] N-(2-aminoethyl)-N-[(3-methoxy-4-phenylmethoxyphenyl)methyl]carbamate",
+    "object": "PUBCHEM.COMPOUND:73755215",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "Bctc",
+    "object": "PUBCHEM.COMPOUND:9929425",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "Medical Cannabis",
+    "object": "DRUGBANK:DB14009",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "p-menthan-3-ol",
+    "object": "CHEBI:25187",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "Elismetrep",
+    "object": "PUBCHEM.COMPOUND:66548125",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "Anandamide",
+    "object": "PUBCHEM.COMPOUND:5281969",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "2-Aminoethyl diphenylborinate",
+    "object": "PUBCHEM.COMPOUND:1598",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "anandamide",
+    "object": "CHEBI:2700",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "linoleic acid",
+    "object": "CHEBI:17351",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "Lanthanum(3+)",
+    "object": "PUBCHEM.COMPOUND:104897",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "(+)-Menthol",
+    "object": "PUBCHEM.COMPOUND:165675",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "Geraniol",
+    "object": "PUBCHEM.COMPOUND:637566",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:79054",
+    "object_name": "Icilin",
+    "object": "PUBCHEM.COMPOUND:161930",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:8170",
+    "object_name": "nifedipine",
+    "object": "CHEBI:7565",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:249",
+    "object_name": "levamisole",
+    "object": "CHEBI:6432",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:249",
+    "object_name": "all-trans-retinoic acid",
+    "object": "CHEBI:15367",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:249",
+    "object_name": "Mersalyl",
+    "object": "CHEBI:6771",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:28",
+    "object_name": "Human blood group H type 1 trisaccharide",
+    "object": "CHEBI:59296",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:28",
+    "object_name": "5,7-dichloro-4-oxo-1H-quinoline-2-carboxylic acid",
+    "object": "CHEBI:107660",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:28",
+    "object_name": "4-AMINO-2-OCTYLOXY-6-HYDROXYMETHYL-TETRAHYDRO-PYRAN-3,5-DIOL",
+    "object": "DRUGBANK:DB07378",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:28",
+    "object_name": "4-AMINO-2-HEXYLOXY-6-HYDROXYMETHYL-TETRAHYDRO-PYRAN-3,5-DIOL",
+    "object": "DRUGBANK:DB07357",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:28",
+    "object_name": "Uridine-5'-Diphosphate",
+    "object": "CHEBI:17659",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:28",
+    "object_name": "octyl 3-amino-3-deoxy-2-O-(2,6-dideoxy-alpha-L-lyxo-hexopyranosyl)-beta-D-galactopyranoside",
+    "object": "DRUGBANK:DB07341",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:28",
+    "object_name": "GALACTOSE GREASE",
+    "object": "DRUGBANK:DB04680",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:28",
+    "object_name": "BETA-METHYLLACTOSIDE",
+    "object": "CHEBI:610092",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:28",
+    "object_name": "2-Hexyloxy-6-Hydroxymethyl-Tetrahydro-Pyran-3,5-Diol",
+    "object": "DRUGBANK:DB03772",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:28",
+    "object_name": "2-Hexyloxy-6-Hydroxymethyl-Tetrahydro-Pyran-3,4,5-Triol",
+    "object": "DRUGBANK:DB04141",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:28",
+    "object_name": "octyl 3-deoxy-2-O-(6-deoxy-alpha-L-galactopyranosyl)-beta-D-xylo-hexopyranoside",
+    "object": "DRUGBANK:DB07633",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:28",
+    "object_name": "Uridine-Diphosphate-N-Acetylgalactosamine",
+    "object": "CHEBI:67168",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:28",
+    "object_name": "H TYPE II TRISACCHARIDE",
+    "object": "CHEBI:42088",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:28",
+    "object_name": "Galactose-uridine-5'-diphosphate",
+    "object": "CHEBI:67119",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Ephedra sinica root",
+    "object": "DRUGBANK:DB01363",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Epinephrine",
+    "object": "PUBCHEM.COMPOUND:5816",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Esmirtazapine",
+    "object": "CHEMBL.COMPOUND:CHEMBL1366933",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "2-{2-[4-(2-Methoxyphenyl)piperazin-1-yl]ethyl}-4,4-dimethyl-1,2,3,4-tetrahydronaphthalene-1,3-dione",
+    "object": "PUBCHEM.COMPOUND:122211",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Tolazoline hydrochloride",
+    "object": "CHEBI:9615",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Guanfacine hydrochloride",
+    "object": "CHEBI:5559",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "2-[2-[4-(2-methoxyphenyl)-1-piperazinyl]ethyl]-4,4-dimethylisoquinoline-1,3-dione",
+    "object": "CHEBI:93630",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Labetalol hydrochloride",
+    "object": "CHEBI:6344",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "N-(2,3-dihydro-1,4-benzodioxin-2-ylmethyl)-2-(2,6-dimethoxyphenoxy)ethanamine",
+    "object": "CHEBI:64098",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Clonidine",
+    "object": "PUBCHEM.COMPOUND:2803",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "aripiprazole lauroxil",
+    "object": "CHEBI:90930",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Levonordefrin",
+    "object": "CHEBI:10304",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Tolazoline",
+    "object": "CHEBI:28502",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Naphazoline",
+    "object": "CHEBI:7470",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "(2-(2',6'-Dimethoxy)phenoxyethylamino)methylbenzo-1,4-dioxane",
+    "object": "PUBCHEM.COMPOUND:5685",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Bromocriptine",
+    "object": "CHEBI:3181",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Apraclonidine",
+    "object": "CHEBI:2788",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Fenoldopam",
+    "object": "CHEBI:5002",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Apomorphine",
+    "object": "CHEBI:48538",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Desipramine",
+    "object": "CHEBI:47781",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Metamfetamine",
+    "object": "CHEBI:6809",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "debrisoquin",
+    "object": "CHEBI:34665",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Norepinephrine",
+    "object": "PUBCHEM.COMPOUND:439260",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Yohimbine",
+    "object": "CHEBI:10093",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Phenoxybenzamine",
+    "object": "CHEBI:8077",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Aranidipine",
+    "object": "CHEBI:31232",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Maprotiline",
+    "object": "CHEBI:6690",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Guanabenz acetate",
+    "object": "CHEBI:5554",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Guanfacine",
+    "object": "PUBCHEM.COMPOUND:3519",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Epicept NP-1",
+    "object": "CHEMBL.COMPOUND:CHEMBL609728",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Bethanidine",
+    "object": "CHEBI:37937",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Trimipramine",
+    "object": "CHEBI:9738",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "N-(2,6-Dichlorobenzylidene)-N'-amidinohydrazine",
+    "object": "PUBCHEM.COMPOUND:5702063",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Lorpiprazole",
+    "object": "DRUGBANK:DB09195",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Racepinephrine",
+    "object": "DRUGBANK:DB11124",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Dosulepin",
+    "object": "CHEBI:36803",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Xylazine",
+    "object": "PUBCHEM.COMPOUND:5707",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "alpha-methyl-L-dopa",
+    "object": "CHEBI:61058",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Escitalopram",
+    "object": "CHEBI:36791",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Chlorpromazine",
+    "object": "CHEBI:3647",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Tizanidine",
+    "object": "CHEBI:63629",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Moxisylyte",
+    "object": "CHEBI:94754",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "ALSEROXYLON",
+    "object": "CHEMBL.COMPOUND:CHEMBL1201454",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Zotepine",
+    "object": "PUBCHEM.COMPOUND:5736",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Oxymetazoline",
+    "object": "PUBCHEM.COMPOUND:4636",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "olanzapine",
+    "object": "CHEBI:7735",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Paroxetine",
+    "object": "CHEBI:7936",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Setiptiline",
+    "object": "CHEBI:135076",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Norepinephrine",
+    "object": "CHEBI:18357",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Etoperidone",
+    "object": "CHEBI:135589",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Tiapride",
+    "object": "CHEBI:94666",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Fadolmidine hydrochloride",
+    "object": "CHEMBL.COMPOUND:CHEMBL2106710",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Guanabenz",
+    "object": "CHEBI:5553",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Tizanidine hydrochloride",
+    "object": "CHEBI:9609",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Cirazoline",
+    "object": "CHEBI:92950",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Adrenaline bitartrate",
+    "object": "CHEMBL.COMPOUND:CHEMBL1256958",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Bromocriptine",
+    "object": "PUBCHEM.COMPOUND:31101",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "DL-Adrenaline",
+    "object": "PUBCHEM.COMPOUND:838",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Lisuride",
+    "object": "CHEBI:51164",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "5-chloro-2-methyl-2,3,3a,12b-tetrahydrodibenzo[2,3:6,7]oxepino[4,5-c]pyrrole",
+    "object": "CHEBI:71255",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "8-(2,3-dihydro-1,4-benzodioxin-3-ylmethyl)-1-phenyl-1,3,8-triazaspiro[4.5]decan-4-one",
+    "object": "CHEBI:91845",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "L(-)-Norepinephrine bitartrate",
+    "object": "CHEMBL.COMPOUND:CHEMBL1356607",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "apraclonidine hydrochloride",
+    "object": "CHEBI:2789",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "dihydroergocristine",
+    "object": "CHEBI:59912",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Nortriptyline",
+    "object": "CHEBI:7640",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Apomorphine",
+    "object": "PUBCHEM.COMPOUND:6005",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Phenoxybenzamine hydrochloride",
+    "object": "CHEBI:8078",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Indigotindisulfonic acid",
+    "object": "CHEBI:90117",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "(1R,2S)-2-(dimethylamino)-1-phenyl-1-propanol",
+    "object": "CHEBI:113556",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "roxindole",
+    "object": "CHEBI:48558",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Pergolide",
+    "object": "PUBCHEM.COMPOUND:47811",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Amoxapine",
+    "object": "CHEBI:2675",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Oxymetazoline",
+    "object": "CHEBI:7862",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Terguride",
+    "object": "PUBCHEM.COMPOUND:443951",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Amphetamine",
+    "object": "CHEBI:132233",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Xylometazoline",
+    "object": "CHEBI:10082",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "dexmedetomidine",
+    "object": "CHEBI:4466",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Ergoloid mesylate",
+    "object": "CHEBI:34706",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Dronedarone",
+    "object": "CHEBI:50659",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "lofexidine",
+    "object": "CHEBI:51368",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Loxapine",
+    "object": "CHEBI:50841",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Mephentermine",
+    "object": "CHEBI:6755",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "ERGOTAMINE TARTRATE",
+    "object": "CHEMBL.COMPOUND:CHEMBL2062265",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Mirtazapine",
+    "object": "PUBCHEM.COMPOUND:4205",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "2-Methoxyidazoxan",
+    "object": "PUBCHEM.COMPOUND:108094",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Phentolamine",
+    "object": "PUBCHEM.COMPOUND:5775",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "6190-60-9 (Sulfate)",
+    "object": "CHEMBL.COMPOUND:CHEMBL1200996",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Methotrimeprazine",
+    "object": "CHEBI:6838",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Fipamezole",
+    "object": "CHEMBL.COMPOUND:CHEMBL1255582",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Pergolide",
+    "object": "CHEBI:63617",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Risperidone",
+    "object": "CHEBI:8871",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Hydroxyamphetamine hydrobromide",
+    "object": "CHEMBL.COMPOUND:CHEMBL1200705",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "dexmedetomidine hydrochloride",
+    "object": "CHEBI:31472",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Brimonidine",
+    "object": "PUBCHEM.COMPOUND:2435",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Lisuride",
+    "object": "PUBCHEM.COMPOUND:28864",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Carvedilol",
+    "object": "CHEBI:3441",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "zotepine",
+    "object": "CHEBI:32316",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Celiprolol",
+    "object": "CHEBI:94461",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "RAUWOLFIA SERPENTINA",
+    "object": "CHEMBL.COMPOUND:CHEMBL3559672",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "phentolamine",
+    "object": "CHEBI:8081",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "SENREBOTASE",
+    "object": "CHEMBL.COMPOUND:CHEMBL3137348",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "OPC-28326",
+    "object": "DRUGBANK:DB05461",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Rotigotine",
+    "object": "CHEBI:135351",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Methyldopate hydrochloride",
+    "object": "CHEMBL.COMPOUND:CHEMBL1200432",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Clonidine hydrochloride",
+    "object": "CHEBI:3758",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "alpha-methylnoradrenaline",
+    "object": "CHEBI:141146",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Etomidate",
+    "object": "CHEBI:4910",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "rauwolscine",
+    "object": "CHEBI:48562",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Paliperidone",
+    "object": "CHEBI:83804",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Spiroxatrine",
+    "object": "PUBCHEM.COMPOUND:5268",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "dipivefrin hydrochloride",
+    "object": "CHEBI:4647",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "2-methoxyidazoxan",
+    "object": "CHEBI:73287",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Droxidopa",
+    "object": "CHEBI:31524",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Asenapine",
+    "object": "CHEBI:71253",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Phenoxybenzamine",
+    "object": "PUBCHEM.COMPOUND:4768",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Ropinirole",
+    "object": "CHEBI:8888",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Haloperidol",
+    "object": "CHEBI:5613",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Guanfacine",
+    "object": "CHEBI:5558",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Hydrogenated Ergot Alkaloids",
+    "object": "CHEMBL.COMPOUND:CHEMBL2311030",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Imiloxan",
+    "object": "PUBCHEM.COMPOUND:133621",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Brimonidine",
+    "object": "CHEBI:3175",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "mirtazapine",
+    "object": "CHEBI:6950",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Clonidine",
+    "object": "CHEBI:46632",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "2-((4,5-Dihydro-1H-imidazol-2-yl)methyl)-2,3-dihydro-1-methyl-1H-isoindole",
+    "object": "PUBCHEM.COMPOUND:121850",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Clozapine",
+    "object": "CHEBI:3766",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Tolazoline",
+    "object": "PUBCHEM.COMPOUND:5504",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "xylazine",
+    "object": "CHEBI:92386",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Roxindole",
+    "object": "PUBCHEM.COMPOUND:219050",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Cabergoline",
+    "object": "CHEBI:3286",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Ocaperidone",
+    "object": "CHEMBL.COMPOUND:CHEMBL2104619",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Dexmedetomidine",
+    "object": "PUBCHEM.COMPOUND:5311068",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Prochlorperazine",
+    "object": "CHEBI:8435",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Ergotamine",
+    "object": "CHEBI:64318",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Quetiapine",
+    "object": "CHEBI:8707",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Prazosin",
+    "object": "CHEBI:8364",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Cabergoline",
+    "object": "PUBCHEM.COMPOUND:54746",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "tetrahydrozoline hydrochloride",
+    "object": "CHEBI:9492",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Phenylpropanolamine",
+    "object": "CHEBI:80680",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Yohimbine",
+    "object": "PUBCHEM.COMPOUND:8969",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Prazosin",
+    "object": "PUBCHEM.COMPOUND:4893",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Esmirtazapine maleate",
+    "object": "CHEMBL.COMPOUND:CHEMBL2107339",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Phentolamine mesylate",
+    "object": "CHEMBL.COMPOUND:CHEMBL1200873",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Rauwolscine",
+    "object": "PUBCHEM.COMPOUND:643606",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Epinephrine",
+    "object": "CHEBI:28918",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "dihydroergocornine",
+    "object": "CHEBI:59909",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Terguride",
+    "object": "CHEBI:32193",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Mianserin",
+    "object": "CHEBI:51137",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "oxymetazoline hydrochloride",
+    "object": "CHEBI:7863",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Pizotifen",
+    "object": "CHEBI:50212",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Tramadol",
+    "object": "CHEBI:75725",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "(2R,12Br)-3'-methyl-1'-(tritritiomethyl)spiro[1,3,4,6,7,12b-hexahydro-[1]benzofuro[2,3-a]quinolizine-2,4'-1,3-diazinane]-2'-one",
+    "object": "PUBCHEM.COMPOUND:91827340",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Brimonidine tartrate",
+    "object": "CHEMBL.COMPOUND:CHEMBL2062257",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Chlorpromazine",
+    "object": "PUBCHEM.COMPOUND:2726",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Lofexidine",
+    "object": "PUBCHEM.COMPOUND:30668",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Aripiprazole",
+    "object": "CHEBI:31236",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Ziprasidone",
+    "object": "CHEBI:10119",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Phentolamine mesylate",
+    "object": "CHEMBL.COMPOUND:CHEMBL1200873",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Xylometazoline",
+    "object": "CHEBI:10082",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "debrisoquin",
+    "object": "CHEBI:34665",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Amoxapine",
+    "object": "CHEBI:2675",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "ERGOTAMINE TARTRATE",
+    "object": "CHEMBL.COMPOUND:CHEMBL2062265",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Indigotindisulfonic acid",
+    "object": "CHEBI:90117",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Guanfacine",
+    "object": "PUBCHEM.COMPOUND:3519",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Escitalopram",
+    "object": "CHEBI:36791",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Roxindole",
+    "object": "PUBCHEM.COMPOUND:219050",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Bromocriptine",
+    "object": "CHEBI:3181",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Asenapine",
+    "object": "CHEBI:71253",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Aranidipine",
+    "object": "CHEBI:31232",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Tiapride",
+    "object": "CHEBI:94666",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "2-[2-[4-(2-methoxyphenyl)-1-piperazinyl]ethyl]-4,4-dimethylisoquinoline-1,3-dione",
+    "object": "CHEBI:93630",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Clonidine",
+    "object": "PUBCHEM.COMPOUND:2803",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "2-{2-[4-(2-Methoxyphenyl)piperazin-1-yl]ethyl}-4,4-dimethyl-1,2,3,4-tetrahydronaphthalene-1,3-dione",
+    "object": "PUBCHEM.COMPOUND:122211",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Paliperidone",
+    "object": "CHEBI:83804",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Terguride",
+    "object": "CHEBI:32193",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Apomorphine",
+    "object": "PUBCHEM.COMPOUND:6005",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "dihydroergocristine",
+    "object": "CHEBI:59912",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Oxymetazoline",
+    "object": "CHEBI:7862",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Rotigotine",
+    "object": "CHEBI:135351",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Etoperidone",
+    "object": "CHEBI:135589",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Prazosin",
+    "object": "PUBCHEM.COMPOUND:4893",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "DL-Adrenaline",
+    "object": "PUBCHEM.COMPOUND:838",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Celiprolol",
+    "object": "CHEBI:94461",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Cirazoline",
+    "object": "CHEBI:92950",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Dosulepin",
+    "object": "CHEBI:36803",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "8-(2,3-dihydro-1,4-benzodioxin-3-ylmethyl)-1-phenyl-1,3,8-triazaspiro[4.5]decan-4-one",
+    "object": "CHEBI:91845",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "aripiprazole lauroxil",
+    "object": "CHEBI:90930",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Guanfacine",
+    "object": "CHEBI:5558",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "5-chloro-2-methyl-2,3,3a,12b-tetrahydrodibenzo[2,3:6,7]oxepino[4,5-c]pyrrole",
+    "object": "CHEBI:71255",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "oxymetazoline hydrochloride",
+    "object": "CHEBI:7863",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Moxisylyte",
+    "object": "CHEBI:94754",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Spiroxatrine",
+    "object": "PUBCHEM.COMPOUND:5268",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Ziprasidone",
+    "object": "CHEBI:10119",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Brimonidine",
+    "object": "PUBCHEM.COMPOUND:2435",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Zotepine",
+    "object": "PUBCHEM.COMPOUND:5736",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Brimonidine tartrate",
+    "object": "CHEMBL.COMPOUND:CHEMBL2062257",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Bethanidine",
+    "object": "CHEBI:37937",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Pizotifen",
+    "object": "CHEBI:50212",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Phentolamine",
+    "object": "PUBCHEM.COMPOUND:5775",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Lisuride",
+    "object": "PUBCHEM.COMPOUND:28864",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Apraclonidine",
+    "object": "CHEBI:2788",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "(2R,12Br)-3'-methyl-1'-(tritritiomethyl)spiro[1,3,4,6,7,12b-hexahydro-[1]benzofuro[2,3-a]quinolizine-2,4'-1,3-diazinane]-2'-one",
+    "object": "PUBCHEM.COMPOUND:91827340",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Setiptiline",
+    "object": "CHEBI:135076",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "dipivefrin hydrochloride",
+    "object": "CHEBI:4647",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Tizanidine",
+    "object": "CHEBI:63629",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Levonordefrin",
+    "object": "CHEBI:10304",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "(2-(2',6'-Dimethoxy)phenoxyethylamino)methylbenzo-1,4-dioxane",
+    "object": "PUBCHEM.COMPOUND:5685",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Phenoxybenzamine",
+    "object": "PUBCHEM.COMPOUND:4768",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Guanabenz acetate",
+    "object": "CHEBI:5554",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Epicept NP-1",
+    "object": "CHEMBL.COMPOUND:CHEMBL609728",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Tizanidine hydrochloride",
+    "object": "CHEBI:9609",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Tramadol",
+    "object": "CHEBI:75725",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Esmirtazapine",
+    "object": "CHEMBL.COMPOUND:CHEMBL1366933",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "N-(2,6-Dichlorobenzylidene)-N'-amidinohydrazine",
+    "object": "PUBCHEM.COMPOUND:5702063",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "2-Methoxyidazoxan",
+    "object": "PUBCHEM.COMPOUND:108094",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Lorpiprazole",
+    "object": "DRUGBANK:DB09195",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Methotrimeprazine",
+    "object": "CHEBI:6838",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Ergotamine",
+    "object": "CHEBI:64318",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Cabergoline",
+    "object": "CHEBI:3286",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Nortriptyline",
+    "object": "CHEBI:7640",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "zotepine",
+    "object": "CHEBI:32316",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Lisuride",
+    "object": "CHEBI:51164",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Rauwolscine",
+    "object": "PUBCHEM.COMPOUND:643606",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Pergolide",
+    "object": "CHEBI:63617",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Yohimbine",
+    "object": "CHEBI:10093",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Tolazoline",
+    "object": "PUBCHEM.COMPOUND:5504",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Norepinephrine",
+    "object": "CHEBI:18357",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Yohimbine",
+    "object": "PUBCHEM.COMPOUND:8969",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Mianserin",
+    "object": "CHEBI:51137",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "lofexidine",
+    "object": "CHEBI:51368",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Phenoxybenzamine hydrochloride",
+    "object": "CHEBI:8078",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Xylazine",
+    "object": "PUBCHEM.COMPOUND:5707",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "RAUWOLFIA SERPENTINA",
+    "object": "CHEMBL.COMPOUND:CHEMBL3559672",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Pergolide",
+    "object": "PUBCHEM.COMPOUND:47811",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Esmirtazapine maleate",
+    "object": "CHEMBL.COMPOUND:CHEMBL2107339",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "alpha-methylnoradrenaline",
+    "object": "CHEBI:141146",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Tolazoline hydrochloride",
+    "object": "CHEBI:9615",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Labetalol hydrochloride",
+    "object": "CHEBI:6344",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Ocaperidone",
+    "object": "CHEMBL.COMPOUND:CHEMBL2104619",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "(1R,2S)-2-(dimethylamino)-1-phenyl-1-propanol",
+    "object": "CHEBI:113556",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Brimonidine",
+    "object": "CHEBI:3175",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "6190-60-9 (Sulfate)",
+    "object": "CHEMBL.COMPOUND:CHEMBL1200996",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Phenoxybenzamine",
+    "object": "CHEBI:8077",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Droxidopa",
+    "object": "CHEBI:31524",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Carvedilol",
+    "object": "CHEBI:3441",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Apomorphine",
+    "object": "CHEBI:48538",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "OPC-28326",
+    "object": "DRUGBANK:DB05461",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "apraclonidine hydrochloride",
+    "object": "CHEBI:2789",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Mirtazapine",
+    "object": "PUBCHEM.COMPOUND:4205",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Oxymetazoline",
+    "object": "PUBCHEM.COMPOUND:4636",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "mirtazapine",
+    "object": "CHEBI:6950",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Fadolmidine hydrochloride",
+    "object": "CHEMBL.COMPOUND:CHEMBL2106710",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Dronedarone",
+    "object": "CHEBI:50659",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Guanfacine hydrochloride",
+    "object": "CHEBI:5559",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Maprotiline",
+    "object": "CHEBI:6690",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Prochlorperazine",
+    "object": "CHEBI:8435",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Guanabenz",
+    "object": "CHEBI:5553",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Etomidate",
+    "object": "CHEBI:4910",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Amphetamine",
+    "object": "CHEBI:132233",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Mephentermine",
+    "object": "CHEBI:6755",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "2-methoxyidazoxan",
+    "object": "CHEBI:73287",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Clonidine",
+    "object": "CHEBI:46632",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Phenylpropanolamine",
+    "object": "CHEBI:80680",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Adrenaline bitartrate",
+    "object": "CHEMBL.COMPOUND:CHEMBL1256958",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Cabergoline",
+    "object": "PUBCHEM.COMPOUND:54746",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "alpha-methyl-L-dopa",
+    "object": "CHEBI:61058",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "dexmedetomidine hydrochloride",
+    "object": "CHEBI:31472",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Ephedra sinica root",
+    "object": "DRUGBANK:DB01363",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "phentolamine",
+    "object": "CHEBI:8081",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Loxapine",
+    "object": "CHEBI:50841",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Metamfetamine",
+    "object": "CHEBI:6809",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Clonidine hydrochloride",
+    "object": "CHEBI:3758",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Imiloxan",
+    "object": "PUBCHEM.COMPOUND:133621",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Hydroxyamphetamine hydrobromide",
+    "object": "CHEMBL.COMPOUND:CHEMBL1200705",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Chlorpromazine",
+    "object": "CHEBI:3647",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Prazosin",
+    "object": "CHEBI:8364",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "L(-)-Norepinephrine bitartrate",
+    "object": "CHEMBL.COMPOUND:CHEMBL1356607",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "2-((4,5-Dihydro-1H-imidazol-2-yl)methyl)-2,3-dihydro-1-methyl-1H-isoindole",
+    "object": "PUBCHEM.COMPOUND:121850",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Aripiprazole",
+    "object": "CHEBI:31236",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "xylazine",
+    "object": "CHEBI:92386",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Clozapine",
+    "object": "CHEBI:3766",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Racepinephrine",
+    "object": "DRUGBANK:DB11124",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Trimipramine",
+    "object": "CHEBI:9738",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Ropinirole",
+    "object": "CHEBI:8888",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Methyldopate hydrochloride",
+    "object": "CHEMBL.COMPOUND:CHEMBL1200432",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "dihydroergocornine",
+    "object": "CHEBI:59909",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Dexmedetomidine",
+    "object": "PUBCHEM.COMPOUND:5311068",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "SENREBOTASE",
+    "object": "CHEMBL.COMPOUND:CHEMBL3137348",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Epinephrine",
+    "object": "CHEBI:28918",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "rauwolscine",
+    "object": "CHEBI:48562",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "N-(2,3-dihydro-1,4-benzodioxin-2-ylmethyl)-2-(2,6-dimethoxyphenoxy)ethanamine",
+    "object": "CHEBI:64098",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Risperidone",
+    "object": "CHEBI:8871",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Fenoldopam",
+    "object": "CHEBI:5002",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Paroxetine",
+    "object": "CHEBI:7936",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "tetrahydrozoline hydrochloride",
+    "object": "CHEBI:9492",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Lofexidine",
+    "object": "PUBCHEM.COMPOUND:30668",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "olanzapine",
+    "object": "CHEBI:7735",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Ergoloid mesylate",
+    "object": "CHEBI:34706",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Bromocriptine",
+    "object": "PUBCHEM.COMPOUND:31101",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Epinephrine",
+    "object": "PUBCHEM.COMPOUND:5816",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Desipramine",
+    "object": "CHEBI:47781",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Chlorpromazine",
+    "object": "PUBCHEM.COMPOUND:2726",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Haloperidol",
+    "object": "CHEBI:5613",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Terguride",
+    "object": "PUBCHEM.COMPOUND:443951",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Hydrogenated Ergot Alkaloids",
+    "object": "CHEMBL.COMPOUND:CHEMBL2311030",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "dexmedetomidine",
+    "object": "CHEBI:4466",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "ALSEROXYLON",
+    "object": "CHEMBL.COMPOUND:CHEMBL1201454",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Quetiapine",
+    "object": "CHEBI:8707",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "roxindole",
+    "object": "CHEBI:48558",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Fipamezole",
+    "object": "CHEMBL.COMPOUND:CHEMBL1255582",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Norepinephrine",
+    "object": "PUBCHEM.COMPOUND:439260",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Tolazoline",
+    "object": "CHEBI:28502",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151",
+    "object_name": "Naphazoline",
+    "object": "CHEBI:7470",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "CaSR antagonist 18c",
+    "object": "PUBCHEM.COMPOUND:11410354",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "PARATHYROID HORMONE",
+    "object": "CHEMBL.COMPOUND:CHEMBL2108078",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "Tryptophan",
+    "object": "PUBCHEM.COMPOUND:6305",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "pamidronate",
+    "object": "CHEBI:7903",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "Strontium ranelate",
+    "object": "CHEMBL.COMPOUND:CHEMBL3707306",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "Neomycin",
+    "object": "CHEBI:7507",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "Tecalcet hydrochloride",
+    "object": "CHEMBL.COMPOUND:CHEMBL2107572",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "NPS-2143",
+    "object": "CHEMBL.COMPOUND:CHEMBL180672",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "Encaleret",
+    "object": "PUBCHEM.COMPOUND:46917559",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "Neomycin",
+    "object": "PUBCHEM.COMPOUND:8378",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "Ronacaleret",
+    "object": "PUBCHEM.COMPOUND:10345214",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "calcium hydrogenphosphate dihydrate",
+    "object": "CHEBI:4496",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "Etelcalcetide",
+    "object": "CHEBI:134700",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "Calindol",
+    "object": "PUBCHEM.COMPOUND:9882793",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "3-[4-Cyano-3-[(2R)-3-[[1-(2,3-dihydro-1H-inden-2-yl)-2-methylpropan-2-yl]amino]-2-hydroxypropoxy]phenyl]propanoic acid",
+    "object": "PUBCHEM.COMPOUND:9910902",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "cinacalcet hydrochloride",
+    "object": "CHEBI:48391",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "Ca<sup>2+</sup>",
+    "object": "GTOPDB:707",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "CID 9841421",
+    "object": "PUBCHEM.COMPOUND:9841421",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "Cinacalcet",
+    "object": "PUBCHEM.COMPOUND:156419",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "Ronacaleret",
+    "object": "CHEMBL.COMPOUND:CHEMBL1198855",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "ASP7991",
+    "object": "CHEMBL.COMPOUND:CHEMBL3545100",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "amitriptyline",
+    "object": "CHEBI:2666",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "Evocalcet",
+    "object": "PUBCHEM.COMPOUND:71242808",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "Encaleret",
+    "object": "CHEMBL.COMPOUND:CHEMBL1672973",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "3-[4-Cyano-3-[(2R)-3-[[1-(2,3-dihydro-1H-inden-2-yl)-2-methylpropan-2-yl]amino]-2-hydroxypropoxy]phenyl]propanoic acid",
+    "object": "CHEMBL.COMPOUND:CHEMBL1084513",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "1-(1,3-Benzothiazol-2-yl)-1-(2,4-dimethylphenyl)ethanol",
+    "object": "PUBCHEM.COMPOUND:52943938",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "Tecalcet",
+    "object": "PUBCHEM.COMPOUND:158797",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "4-Chloro-N-[(1S,2S)-2-[[(1R)-1-naphthalen-1-ylethyl]amino]cyclohexyl]benzamide",
+    "object": "PUBCHEM.COMPOUND:11849514",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "2-Benzylpyrridine-substituted aryloxypropanol analogue",
+    "object": "PUBCHEM.COMPOUND:11710462",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "1-Arylmethylpyrrolidin-2-yl ethanol amine",
+    "object": "PUBCHEM.COMPOUND:44405854",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "(R)-2h [PMID:19625189]",
+    "object": "PUBCHEM.COMPOUND:135948915",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "L-tryptophan zwitterion",
+    "object": "CHEBI:57912",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "Magnesium ion",
+    "object": "PUBCHEM.COMPOUND:888",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "Nps-2143",
+    "object": "PUBCHEM.COMPOUND:6918446",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "lofepramine",
+    "object": "CHEBI:47782",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "Spermine",
+    "object": "PUBCHEM.COMPOUND:1103",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "Tecalcet",
+    "object": "CHEMBL.COMPOUND:CHEMBL292376",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "1-Benzyl-4-(4-isopropyl-phenyl)-6-propargyloxy-1H-quinazolin-2-one",
+    "object": "PUBCHEM.COMPOUND:10158373",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "Calcium Citrate",
+    "object": "CHEMBL.COMPOUND:CHEMBL2106123",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "Spermine",
+    "object": "CHEBI:15746",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "L-2-aminohexanoic acid zwitterion",
+    "object": "CHEBI:58455",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "FORMALDEHYDE",
+    "object": "CHEMBL.COMPOUND:CHEMBL1255",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "Calindol",
+    "object": "CHEMBL.COMPOUND:CHEMBL1801356",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "(2R)-3-[[(2S)-3-Acetamido-2-[[(2R)-2-[[(2R)-2-[[(2R)-2-[[(2R)-2-[[(2R)-2-[[(2R)-2-amino-5-(diaminomethylideneamino)pentanoyl]amino]propanoyl]amino]-5-(diaminomethylideneamino)pentanoyl]amino]-5-(diaminomethylideneamino)pentanoyl]amino]-5-(diaminomethylide",
+    "object": "PUBCHEM.COMPOUND:71716572",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "Calcium Phosphate",
+    "object": "CHEBI:9679",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "CA2",
+    "object": "CHEMBL.COMPOUND:CHEMBL2109588",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "4-Methoxy-N-((1R,2R)-2-(1-(naphthalen-1-yl)ethylamino)cyclohexyl)benzenesulfonamide hydrochloride",
+    "object": "PUBCHEM.COMPOUND:44415153",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "2-Methyl-3-phenethyl-3H-pyrimidin-4-one",
+    "object": "CHEMBL.COMPOUND:CHEMBL194764",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:846",
+    "object_name": "Cinacalcet",
+    "object": "CHEBI:48390",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Tomelukast",
+    "object": "PUBCHEM.COMPOUND:3969",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "(Z)-2-Cyano-3-(3,4-dihydroxyphenyl)-N-(4-phenylbutyl)prop-2-enamide",
+    "object": "PUBCHEM.COMPOUND:5353391",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Trimebutine",
+    "object": "PUBCHEM.COMPOUND:5573",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Benzthiazide",
+    "object": "PUBCHEM.COMPOUND:2343",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Rescinnamine",
+    "object": "PUBCHEM.COMPOUND:5280954",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Clarithromycin",
+    "object": "PUBCHEM.COMPOUND:84029",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "1H-Imidazole-4-carboxamide, 5-amino-1-(5-O-phosphono-beta-D-ribofuranosyl)-",
+    "object": "PUBCHEM.COMPOUND:200",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Enalaprilat",
+    "object": "PUBCHEM.COMPOUND:5462501",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Bms-641988",
+    "object": "PUBCHEM.COMPOUND:24768935",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Hexamethylene bisacetamide",
+    "object": "PUBCHEM.COMPOUND:3616",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "CID 57448257",
+    "object": "PUBCHEM.COMPOUND:57448257",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Nicergoline",
+    "object": "PUBCHEM.COMPOUND:34040",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "1,3(2H,4H)-Isoquinolinedione, 2-(2-(4-(2-methoxyphenyl)-1-piperazinyl)ethyl)-4,4-dimethyl-",
+    "object": "PUBCHEM.COMPOUND:609483",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Etoposide",
+    "object": "PUBCHEM.COMPOUND:36462",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "[2-[(10R,13S,17R)-10,13-Dimethyl-17-oxidanyl-3,11-bis(oxidanylidene)-1,2,6,7,8,9,12,14,15,16-decahydrocyclopenta[a]phenanthren-17-yl]-2-oxidanylidene-ethyl] ethanoate",
+    "object": "PUBCHEM.COMPOUND:5702028",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Otenzepad",
+    "object": "PUBCHEM.COMPOUND:107867",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "2-(4,5,6,7-Tetraiodo-1,3-dioxo-2-isoindolyl)acetic acid",
+    "object": "PUBCHEM.COMPOUND:4462449",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Methotrexate",
+    "object": "PUBCHEM.COMPOUND:126941",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Wiskostatin",
+    "object": "PUBCHEM.COMPOUND:2775510",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Selumetinib",
+    "object": "PUBCHEM.COMPOUND:10127622",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Mesalamine",
+    "object": "PUBCHEM.COMPOUND:4075",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Benzamide, N-(cyclopropylmethoxy)-3,4,5-trifluoro-2-((4-iodo-2-methylphenyl)amino)-",
+    "object": "PUBCHEM.COMPOUND:9956637",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Flunarizine",
+    "object": "PUBCHEM.COMPOUND:941361",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Nateglinide",
+    "object": "PUBCHEM.COMPOUND:5311309",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Trimetozine",
+    "object": "PUBCHEM.COMPOUND:12478",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Tiagabine",
+    "object": "PUBCHEM.COMPOUND:60648",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Levosulpiride",
+    "object": "PUBCHEM.COMPOUND:688272",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "2-Nitro-N-[[4-[(1,2,3,4-tetrahydronaphthalen-2-ylmethylamino)methyl]cyclohexyl]methyl]benzenesulfonamide",
+    "object": "PUBCHEM.COMPOUND:9982218",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Isoquercitrin",
+    "object": "PUBCHEM.COMPOUND:5280804",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "PDK1 inhibitor",
+    "object": "PUBCHEM.COMPOUND:49766501",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Hyperoside",
+    "object": "PUBCHEM.COMPOUND:5281643",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Felodipine",
+    "object": "PUBCHEM.COMPOUND:3333",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Epibatidine",
+    "object": "PUBCHEM.COMPOUND:1204",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Carmoxirole",
+    "object": "PUBCHEM.COMPOUND:57364",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "MK-2206",
+    "object": "PUBCHEM.COMPOUND:24964624",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Diphenhydramine",
+    "object": "PUBCHEM.COMPOUND:3100",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Xolegel",
+    "object": "PUBCHEM.COMPOUND:456201",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "N-Hydroxy-2-phenylacetamide",
+    "object": "PUBCHEM.COMPOUND:220184",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "N'-(3-Chlorophenyl)-N-[(3-chlorophenyl)methylidene]methanimidamide",
+    "object": "PUBCHEM.COMPOUND:9604992",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Bosutinib",
+    "object": "PUBCHEM.COMPOUND:5328940",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "2-Methyl-5-[(4-phenyl-3,6-dihydro-2H-pyridin-1-yl)methyl]-4-pyrimidinamine",
+    "object": "PUBCHEM.COMPOUND:16759175",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Tropisetron",
+    "object": "PUBCHEM.COMPOUND:656665",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Betahistine",
+    "object": "PUBCHEM.COMPOUND:2366",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "N-(1-Hydroxypropan-2-yl)-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide",
+    "object": "PUBCHEM.COMPOUND:3250",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "CID 60773",
+    "object": "PUBCHEM.COMPOUND:60773",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Flavoxate",
+    "object": "PUBCHEM.COMPOUND:3354",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Tetrahydrozoline",
+    "object": "PUBCHEM.COMPOUND:5419",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "(3S,6'S,6As,6bS,7'aR,9R,11aS,11bR)-3',6',10,11b-tetramethylspiro[2,3,4,6,6a,6b,7,8,11,11a-decahydro-1H-benzo[a]fluorene-9,2'-3a,4,5,6,7,7a-hexahydro-3H-furo[3,2-b]pyridine]-3-ol",
+    "object": "PUBCHEM.COMPOUND:44118238",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "(E)-5-(Quinoxalin-6-ylmethylene)thiazolidine-2,4-dione",
+    "object": "PUBCHEM.COMPOUND:10377751",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Perphenazine",
+    "object": "PUBCHEM.COMPOUND:4748",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Carbamimidothioic acid 2-[4-[(4-nitrophenyl)methoxy]phenyl]ethyl ester",
+    "object": "PUBCHEM.COMPOUND:4534086",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Pimasertib",
+    "object": "PUBCHEM.COMPOUND:44187362",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Latanoprost",
+    "object": "PUBCHEM.COMPOUND:5311221",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Cytochalasin B",
+    "object": "PUBCHEM.COMPOUND:5311281",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "Cytarabine",
+    "object": "PUBCHEM.COMPOUND:6253",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:151636",
+    "object_name": "4-Hydroxytamoxifen",
+    "object": "PUBCHEM.COMPOUND:449459",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:1435",
+    "object_name": "axitinib",
+    "object": "CHEBI:66910",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:1435",
+    "object_name": "PLX-3397",
+    "object": "CHEMBL.COMPOUND:CHEMBL3545158",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:1435",
+    "object_name": "linifanib",
+    "object": "CHEBI:91435",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:1435",
+    "object_name": "actinomycin D",
+    "object": "CHEBI:27666",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:8647",
+    "object_name": "ATP",
+    "object": "CHEBI:15422",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:8647",
+    "object_name": "Clofazimine",
+    "object": "CHEMBL.COMPOUND:CHEMBL1292",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:8647",
+    "object_name": "Glycochenodeoxycholic acid",
+    "object": "PUBCHEM.COMPOUND:12544",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:8647",
+    "object_name": "probucol",
+    "object": "CHEBI:8427",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:8647",
+    "object_name": "Clofazimine",
+    "object": "CHEBI:3749",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:8647",
+    "object_name": "glycoursodeoxycholic acid",
+    "object": "CHEBI:89929",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:8647",
+    "object_name": "Glyburide",
+    "object": "CHEBI:5441",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "Fluxid",
+    "object": "PUBCHEM.COMPOUND:5353622",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "CID 60773",
+    "object": "PUBCHEM.COMPOUND:60773",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "Oxotremorine",
+    "object": "PUBCHEM.COMPOUND:4630",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "Rotenonic acid",
+    "object": "PUBCHEM.COMPOUND:6708539",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "Carbinoxamine",
+    "object": "PUBCHEM.COMPOUND:2564",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "Rilmenidine",
+    "object": "PUBCHEM.COMPOUND:68712",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "3-(3,3-Dimethylcyclobutyl)-1-(2-phenylquinolin-7-yl)imidazo[1,5-a]pyrazin-8-amine",
+    "object": "PUBCHEM.COMPOUND:71760892",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "N,N'-Dibenzhydrylethane-1,2-diamine",
+    "object": "PUBCHEM.COMPOUND:1894361",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "2-[2-Chloro-6-ethoxy-4-[(3-methyl-5-oxo-1-phenyl-4-pyrazolylidene)methyl]phenoxy]acetic acid methyl ester",
+    "object": "PUBCHEM.COMPOUND:2913564",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "(7R)-3-(Acetyloxymethyl)-7-amino-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid",
+    "object": "PUBCHEM.COMPOUND:483168",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "Taxifolin",
+    "object": "PUBCHEM.COMPOUND:439533",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "2-Methoxy-N-[(2E)-3-[4-[[3-methyl-4-[(6-methyl-3-pyridinyl)oxy]phenyl]amino]-6-quinazolinyl]-2-propen-1-yl]acetamide",
+    "object": "PUBCHEM.COMPOUND:9874913",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "Tropisetron",
+    "object": "PUBCHEM.COMPOUND:656665",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "Otenzepad",
+    "object": "PUBCHEM.COMPOUND:107867",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "1H-Imidazole-4-carboxamide, 5-amino-1-(5-O-phosphono-beta-D-ribofuranosyl)-",
+    "object": "PUBCHEM.COMPOUND:200",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "Estra-1,3,5(10)-triene-3,17-diol (17beta)-, 3-benzoate",
+    "object": "PUBCHEM.COMPOUND:3262",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "Secnidazole",
+    "object": "PUBCHEM.COMPOUND:71815",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "Piperidolate",
+    "object": "PUBCHEM.COMPOUND:4839",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "6-Benzylaminopurine",
+    "object": "PUBCHEM.COMPOUND:62389",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "Latanoprost",
+    "object": "PUBCHEM.COMPOUND:5311221",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "Salicin",
+    "object": "PUBCHEM.COMPOUND:439503",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "Prostaglandin B2",
+    "object": "PUBCHEM.COMPOUND:5280881",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "Crotamiton",
+    "object": "PUBCHEM.COMPOUND:688020",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "2-(9H-Fluoren-9-ylmethoxycarbonylamino)-4-methylpentanoic acid",
+    "object": "PUBCHEM.COMPOUND:4308",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "CID 3454",
+    "object": "PUBCHEM.COMPOUND:3454",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "Nifekalant",
+    "object": "PUBCHEM.COMPOUND:4486",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "1,3(2H,4H)-Isoquinolinedione, 2-(2-(4-(2-methoxyphenyl)-1-piperazinyl)ethyl)-4,4-dimethyl-",
+    "object": "PUBCHEM.COMPOUND:609483",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "Oxcarbazepine",
+    "object": "PUBCHEM.COMPOUND:34312",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "N-Hydroxy-2-phenylacetamide",
+    "object": "PUBCHEM.COMPOUND:220184",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "Zileuton",
+    "object": "PUBCHEM.COMPOUND:60490",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "Zolmitriptan",
+    "object": "PUBCHEM.COMPOUND:60857",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "5-[(2-Methyl-5-{[3-(trifluoromethyl)phenyl]carbamoyl}phenyl)amino]pyridine-3-carboxamide",
+    "object": "PUBCHEM.COMPOUND:24875320",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "Methyl 4-[2-(3,4-dichlorophenyl)acetyl]-3-(pyrrolidin-1-ylmethyl)piperazine-1-carboxylate",
+    "object": "PUBCHEM.COMPOUND:3505",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "7,8-Dichloro-4-oxo-1H-quinoline-3-carboxylic Acid",
+    "object": "PUBCHEM.COMPOUND:693139",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "Flumazenil",
+    "object": "PUBCHEM.COMPOUND:3373",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "(Z)-7-[3-[[2-(Phenylcarbamoyl)hydrazinyl]methyl]-7-oxabicyclo[2.2.1]heptan-2-yl]hept-5-enoic acid",
+    "object": "PUBCHEM.COMPOUND:16759359",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "Capecitabine",
+    "object": "PUBCHEM.COMPOUND:60953",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "(2S)-2-Amino-N-[(3S)-7,7-dimethyl-4-[[4-(2-methylphenyl)-1-piperazinyl]sulfonylmethyl]-3-bicyclo[2.2.1]heptanyl]-4-methylsulfonylbutanamide",
+    "object": "PUBCHEM.COMPOUND:9893887",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "Bms-641988",
+    "object": "PUBCHEM.COMPOUND:24768935",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "Selumetinib",
+    "object": "PUBCHEM.COMPOUND:10127622",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "Tiagabine",
+    "object": "PUBCHEM.COMPOUND:60648",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "Erythromycin propionate",
+    "object": "PUBCHEM.COMPOUND:71277",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "Hexamethylene bisacetamide",
+    "object": "PUBCHEM.COMPOUND:3616",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "(E)-5-(Quinoxalin-6-ylmethylene)thiazolidine-2,4-dione",
+    "object": "PUBCHEM.COMPOUND:10377751",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "Lysylphenylalanyltyrosine",
+    "object": "PUBCHEM.COMPOUND:6710772",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "Nicorandil",
+    "object": "PUBCHEM.COMPOUND:47528",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "Bendroflumethiazide",
+    "object": "PUBCHEM.COMPOUND:2315",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "Diphenhydramine",
+    "object": "PUBCHEM.COMPOUND:3100",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "Milnacipran",
+    "object": "PUBCHEM.COMPOUND:65833",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "4-(4-Octylphenyl)benzoic acid",
+    "object": "PUBCHEM.COMPOUND:1714884",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "Pidotimod",
+    "object": "PUBCHEM.COMPOUND:65944",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "Telenzepine",
+    "object": "PUBCHEM.COMPOUND:5387",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:80018",
+    "object_name": "Milrinone",
+    "object": "PUBCHEM.COMPOUND:4197",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Chembl3039191",
+    "object": "PUBCHEM.COMPOUND:5702042",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Abexinostat",
+    "object": "PUBCHEM.COMPOUND:11749858",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "3-[(11R)-3,11,14-Trihydroxy-10,13-dimethyl-1,2,3,4,5,6,7,8,9,11,12,15,16,17-tetradecahydrocyclopenta[a]phenanthren-17-yl]-2H-furan-5-one",
+    "object": "PUBCHEM.COMPOUND:6708600",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "4-({5-Amino-1-[(2,6-Difluorophenyl)carbonyl]-1h-1,2,4-Triazol-3-Yl}amino)benzenesulfonamide",
+    "object": "PUBCHEM.COMPOUND:5330790",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "5-[(Z)-(5-Chloro-2-oxo-1,2-dihydro-3H-indol-3-ylidene)methyl]-N-[2-(diethylamino)ethyl]-2,4-dimethyl-1H-pyrrole-3-carboxamide",
+    "object": "PUBCHEM.COMPOUND:5329103",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "1-(3-Chlorophenyl)-3-{5-[2-(Thieno[3,2-D]pyrimidin-4-Ylamino)ethyl]-1,3-Thiazol-2-Yl}urea",
+    "object": "PUBCHEM.COMPOUND:24995524",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "CID 6335412",
+    "object": "PUBCHEM.COMPOUND:6335412",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Ptach",
+    "object": "PUBCHEM.COMPOUND:11395181",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Dehydrocholic acid",
+    "object": "PUBCHEM.COMPOUND:6674",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Bufalin",
+    "object": "PUBCHEM.COMPOUND:9547215",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Temephos",
+    "object": "PUBCHEM.COMPOUND:5392",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Pharmakon1600-00330002",
+    "object": "PUBCHEM.COMPOUND:5702003",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "[(1R,2S,4R,5R,6S,8R,10S,11S,14S,16R)-14-Hydroxy-8,11-dimethyl-6-(6-oxopyran-3-yl)-3-oxapentacyclo[8.8.0.02,4.02,7.011,16]octadecan-5-yl] acetate",
+    "object": "PUBCHEM.COMPOUND:23947601",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Dacinostat",
+    "object": "PUBCHEM.COMPOUND:6445533",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "4-[2-(3,5-Dimethyl-2-oxocyclohexyl)-2-hydroxyethyl]piperidine-2,6-dione",
+    "object": "PUBCHEM.COMPOUND:2900",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "4-[(1R,2S)-3-(4-Benzylpiperidin-1-yl)-1-hydroxy-2-methylpropyl]phenol",
+    "object": "PUBCHEM.COMPOUND:6604887",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Tremulacin",
+    "object": "PUBCHEM.COMPOUND:442544",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Acitretin",
+    "object": "PUBCHEM.COMPOUND:5284513",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "(3S,5S,10S,13R,14S)-5,14-Dihydroxy-3-(5-hydroxy-4-methoxy-6-methyloxan-2-yl)oxy-13-methyl-17-(5-oxo-2H-furan-3-yl)-2,3,4,6,7,8,9,11,12,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthrene-10-carbaldehyde",
+    "object": "PUBCHEM.COMPOUND:6708764",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Dipropyl-5-CT",
+    "object": "PUBCHEM.COMPOUND:156314",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Pyridostigmine",
+    "object": "PUBCHEM.COMPOUND:4991",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "(2R,4R,5R)-2-(5,6-Dichloro-1-benzimidazolyl)-5-(hydroxymethyl)oxolane-3,4-diol",
+    "object": "PUBCHEM.COMPOUND:6610267",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Cortisone",
+    "object": "PUBCHEM.COMPOUND:222786",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Methyl 4-(6-(4-(methoxycarbonylamino)phenyl)-4-morpholino-1H-pyrazolo[3,4-d]pyrimidin-1-yl)piperidine-1-carboxylate",
+    "object": "PUBCHEM.COMPOUND:44219749",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Narciclasine",
+    "object": "PUBCHEM.COMPOUND:72376",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Digitoxigenin",
+    "object": "PUBCHEM.COMPOUND:4369270",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "N-(3-{[5-Iodo-4-({3-[(Thiophen-2-Ylcarbonyl)amino]propyl}amino)pyrimidin-2-Yl]amino}phenyl)pyrrolidine-1-Carboxamide",
+    "object": "PUBCHEM.COMPOUND:10077147",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Cephaeline",
+    "object": "PUBCHEM.COMPOUND:442195",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Elesclomol",
+    "object": "PUBCHEM.COMPOUND:300471",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Mocetinostat",
+    "object": "PUBCHEM.COMPOUND:9865515",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "(8-Hydroxy-5-quinolinyl)-oxidoammonium",
+    "object": "PUBCHEM.COMPOUND:44483284",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Telenzepine",
+    "object": "PUBCHEM.COMPOUND:5387",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Ellipticine",
+    "object": "PUBCHEM.COMPOUND:3213",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Coleoforsin",
+    "object": "PUBCHEM.COMPOUND:5702265",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Tizanidine",
+    "object": "PUBCHEM.COMPOUND:5487",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "(+)-Genipin",
+    "object": "PUBCHEM.COMPOUND:23340",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Phorbol myristate acetate",
+    "object": "PUBCHEM.COMPOUND:4792",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "3-Oxalomalic acid",
+    "object": "PUBCHEM.COMPOUND:439620",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Anisomycin",
+    "object": "PUBCHEM.COMPOUND:253602",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Prometon",
+    "object": "PUBCHEM.COMPOUND:4928",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "3-(Carbamoylamino)-5-(3-fluorophenyl)-N-[(3R)-3-piperidinyl]-2-thiophenecarboxamide",
+    "object": "PUBCHEM.COMPOUND:67077825",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Omacetaxine mepesuccinate",
+    "object": "PUBCHEM.COMPOUND:285033",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "3-(4-t-Butylphenyl)-N-(2,3-dihydrobenzo(b)(1,4)dioxin-6-yl)acrylamide",
+    "object": "PUBCHEM.COMPOUND:680502",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "[2-[(11S,13S,17R)-11,17-Dihydroxy-10,13-dimethyl-3-oxo-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthren-17-yl]-2-oxoethyl] acetate",
+    "object": "PUBCHEM.COMPOUND:5702107",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "(2S,3R)-2-[(6,7-Dimethoxy-1,2,3,4-tetrahydroisoquinolin-1-yl)methyl]-3-ethyl-9,10-dimethoxy-2,3,4,6,7,11b-hexahydro-1H-benzo[a]quinolizine",
+    "object": "PUBCHEM.COMPOUND:5702048",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "4-(8-Methyl-9H-1,3-dioxolo(4,5-h)(2,3)benzodiazepin-5-yl)benzenamine",
+    "object": "PUBCHEM.COMPOUND:3538",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "6-Anilino-5,8-quinolinedione",
+    "object": "PUBCHEM.COMPOUND:3976",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Nefopam",
+    "object": "PUBCHEM.COMPOUND:4450",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Chelidonine",
+    "object": "PUBCHEM.COMPOUND:197810",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "4-(6-(4-(Piperazin-1-yl)phenyl)pyrazolo[1,5-a]pyrimidin-3-yl)quinoline",
+    "object": "PUBCHEM.COMPOUND:25195294",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "2-(4-Amino-5-iodo-7-pyrrolo[2,3-d]pyrimidinyl)-5-(hydroxymethyl)oxolane-3,4-diol",
+    "object": "PUBCHEM.COMPOUND:1830",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "(2E)-N-Hydroxy-3-[1-methyl-4-(phenylacetyl)-1H-pyrrol-2-yl]prop-2-enamide",
+    "object": "PUBCHEM.COMPOUND:10379137",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "1-[1-(1-Benzothiophen-2-yl)cyclohexyl]piperidine",
+    "object": "PUBCHEM.COMPOUND:123692",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "(3S,5Z)-5-[(2Z)-2-[(7As)-1-(6-hydroxy-6-methylheptan-2-yl)-7a-methyl-2,3,3a,5,6,7-hexahydro-1H-inden-4-ylidene]ethylidene]-4-methylidenecyclohexane-1,3-diol",
+    "object": "PUBCHEM.COMPOUND:73707427",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Jatamansin",
+    "object": "PUBCHEM.COMPOUND:668081",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "(2S)-2-[[2-(2,3-Dihydro-1H-inden-5-yloxy)-9-[(4-phenylphenyl)methyl]-6-purinyl]amino]-3-phenyl-1-propanol",
+    "object": "PUBCHEM.COMPOUND:42623900",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Metaxalone",
+    "object": "PUBCHEM.COMPOUND:15459",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Pidotimod",
+    "object": "PUBCHEM.COMPOUND:65944",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "3-[(3S,5R,10S,13R,14S,16S,17R)-3,14,16-Trihydroxy-10,13-dimethyl-1,2,3,4,5,6,7,8,9,11,12,15,16,17-tetradecahydrocyclopenta[a]phenanthren-17-yl]-2H-furan-5-one",
+    "object": "PUBCHEM.COMPOUND:11012",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Trimebutine",
+    "object": "PUBCHEM.COMPOUND:5573",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Ricinine",
+    "object": "PUBCHEM.COMPOUND:10666",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Amonafide",
+    "object": "PUBCHEM.COMPOUND:50515",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "N-[4-(9-Acridinylmethyl)-3-methoxyphenyl]methanesulfonamide",
+    "object": "PUBCHEM.COMPOUND:3926765",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "N3-Cyclopropyl-7-[(4-propan-2-ylphenyl)methyl]pyrrolo[3,2-f]quinazoline-1,3-diamine",
+    "object": "PUBCHEM.COMPOUND:4259181",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "1,3-Benzothiazol-2-yl(2-((2-(3-pyridinyl)ethyl)amino)-4-pyrimidinyl)acetonitrile",
+    "object": "PUBCHEM.COMPOUND:10109823",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Inhibits Na+/K+ ATPase",
+    "object": "PUBCHEM.COMPOUND:5702041",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Lorazepam",
+    "object": "PUBCHEM.COMPOUND:3958",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "N-[3-(Dimethylamino)propyl]-N-(ethylcarbamoyl)-7-prop-2-enyl-6,6a,8,9,10,10a-hexahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide",
+    "object": "PUBCHEM.COMPOUND:2512",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "[(1R,2R,3E,5S,7S,9E,11R,12S,14S,15R,16S)-16-Benzyl-5,12-dihydroxy-5,7,14-trimethyl-13-methylidene-6,18-dioxo-17-azatricyclo[9.7.0.01,15]octadeca-3,9-dien-2-yl] acetate",
+    "object": "PUBCHEM.COMPOUND:16760041",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "5-(6-Amino-2-chloro-9-purinyl)-4-fluoro-2-(hydroxymethyl)-3-oxolanol",
+    "object": "PUBCHEM.COMPOUND:354624",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "2-Piperazinyl-8-phenyl-4H-1-benzopyran-4-one",
+    "object": "PUBCHEM.COMPOUND:3971",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Troxipide",
+    "object": "PUBCHEM.COMPOUND:5597",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Staurosporine",
+    "object": "PUBCHEM.COMPOUND:44259",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Nialamide",
+    "object": "PUBCHEM.COMPOUND:4472",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "JTC-801 free base",
+    "object": "PUBCHEM.COMPOUND:5311340",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "CID 5225086",
+    "object": "PUBCHEM.COMPOUND:5225086",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "2-(2-Benzoylanilino)-3-[4-[2-[methyl(2-pyridinyl)amino]ethoxy]phenyl]propanoic acid",
+    "object": "PUBCHEM.COMPOUND:4516886",
+    "predicate": "biolink:related_to"
+  },
+  {
+    "subject": "NCBIGene:6909",
+    "object_name": "Orbinamon",
+    "object": "PUBCHEM.COMPOUND:941650",
+    "predicate": "biolink:related_to"
+  }
+]
