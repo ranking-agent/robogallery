@@ -1,0 +1,14 @@
+{
+    "Query Title": "12. Shared Phenotypes",
+    "Query Description": "Diseases that share phenotypes with Influenza (MONDO:0005812)",
+    "standup_date": "2021-04-23",
+    "query_location": "https://raw.githubusercontent.com/NCATSTranslator/testing/main/ars-requests/not-none/sharedPhenotypes.json",
+    "github_issue": "https://github.com/NCATSTranslator/testing/issues/55",
+    "ARS_Results": [
+        {
+            "ARS_result_date": "2021-04-23",
+            "ARS_result_id": "f5f704e4-feb0-43af-ae6d-75905ea35a7c",
+            "Comment": "MONDO:0005812"
+        }
+    ]
+}
