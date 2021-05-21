@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "n0": {
+      "category": [
+        "biolink:ChemicalSubstance"
+      ],
+      "name": "Chemical Substance",
+      "id": "PUBCHEM.COMPOUND:91435"
+    },
+    "n1": {
+      "category": [
+        "biolink:ChemicalSubstance"
+      ],
+      "name": "Chemical Substance"
+    }
+  },
+  "edges": {
+    "e0": {
+      "subject": "n0",
+      "object": "n1"
+    }
+  }
+}
