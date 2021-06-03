@@ -1,14 +1,14 @@
 {
   "nodes": {
     "n0": {
-      "category": [
+      "categories": [
         "biolink:ChemicalSubstance"
       ],
       "name": "Chemical Substance",
-      "id": "PUBCHEM.COMPOUND:91435"
+      "ids": ["CHEBI:24996"]
     },
     "n1": {
-      "category": [
+      "categories": [
         "biolink:ChemicalSubstance"
       ],
       "name": "Chemical Substance"
