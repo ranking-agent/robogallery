@@ -2,16 +2,16 @@
   "nodes": {
     "n0": {
       "name": "Lactate",
-      "id": "PUBCHEM.COMPOUND:91435"
+      "ids": ["PUBCHEM.COMPOUND:91435"]
     },
     "n1": {
-      "category": [
+      "categories": [
         "biolink:Gene"
       ],
       "name": "Gene"
     },
     "n2": {
-      "category": [
+      "categories": [
         "biolink:ChemicalSubstance"
       ],
       "name": "Chemical Substance"
