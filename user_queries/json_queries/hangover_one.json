@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "n0": {
+      "categories": [
+        "biolink:ChemicalSubstance"
+      ],
+      "name": "Chemical Substance",
+      "ids": ["CHEBI:24996"]
+    },
+    "n1": {
+      "categories": [
+        "biolink:ChemicalSubstance"
+      ],
+      "name": "Chemical Substance"
+    }
+  },
+  "edges": {
+    "e0": {
+      "subject": "n0",
+      "object": "n1"
+    }
+  }
+}

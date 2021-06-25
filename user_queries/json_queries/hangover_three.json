@@ -1,0 +1,27 @@
+{
+  "nodes": {
+    "n0": {
+      "name": "Chemical Substance",
+      "categories": [
+        "biolink:ChemicalSubstance"
+      ]
+    },
+    "n1": {
+      "name": "aldehyde",
+      "ids": ["CHEBI:17478"],
+      "categories": [
+        "biolink:ChemicalSubstance",
+        "biolink:MolecularEntity",
+        "biolink:BiologicalEntity",
+        "biolink:NamedThing",
+        "biolink:Entity"
+      ]
+    }
+  },
+  "edges": {
+    "e0": {
+      "subject": "n0",
+      "object": "n1"
+    }
+  }
+}
