@@ -1,0 +1,13 @@
+{
+    "Query Title": "25. No Hop",
+    "Query Description": "ChemicalSubstance Celecoxib (PUBCHEM.COMPOUND:2662) - Gene COX1 (HGNC:9604)",
+    "standup_date": "2021-06-18",
+    "query_location": "https://raw.githubusercontent.com/NCATSTranslator/testing/main/ars-requests/not-none/1.1/celecoxibNoHop.json",
+    "github_issue": "https://github.com/NCATSTranslator/testing/issues/79",
+    "ARS_Results": [
+        {
+            "ARS_result_date": "2021-06-17",
+            "ARS_result_id": "dba4b0c6-5821-450b-b887-4f48d77fa9c2"
+        }
+    ]
+}

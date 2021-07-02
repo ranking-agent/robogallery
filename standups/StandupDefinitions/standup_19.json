@@ -1,0 +1,14 @@
+{
+    "Query Title": "19. RHOBTB2 Step 1",
+    "Query Description": "Genes that downregulate RHOBTB2 (NCBIGene:23221)",
+    "standup_date": "2021-05-28",
+    "query_location": "https://raw.githubusercontent.com/NCATSTranslator/testing/main/ars-requests/not-none/1.1/negativelyRegulates.json",
+    "github_issue": "https://github.com/NCATSTranslator/testing/issues/68",
+    "ARS_Results": [
+        {
+            "ARS_result_date": "2021-05-27",
+            "ARS_result_id": "33732257-d60c-40a3-a02a-33e0e7821799",
+            "Comment": "query using old predicate, it should be entity negatively regulates entity or negatively regulates"
+        }
+    ]
+}
