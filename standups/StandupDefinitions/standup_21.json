@@ -1,0 +1,13 @@
+{
+    "Query Title": "21. Script 1c chemical",
+    "Query Description": "Chemical - Gene KCNMA1 (HGNC:6284)",
+    "standup_date": "2021-06-04",
+    "query_location": "https://raw.githubusercontent.com/NCATSTranslator/testing/main/ars-requests/not-none/1.1/ChemicalSubstanceKCNMA1.json",
+    "github_issue": "https://github.com/NCATSTranslator/testing/issues/71",
+    "ARS_Results": [
+        {
+            "ARS_result_date": "2021-06-03",
+            "ARS_result_id": "324c4934-0e68-4866-b33f-f9072ce39967"
+        }
+    ]
+}

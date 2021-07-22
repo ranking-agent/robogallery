@@ -1,0 +1,13 @@
+{
+    "Query Title": "25. 2 hop",
+    "Query Description": "Disease Sleep Apnea (MONDO:0005296) - Gene - ChemicalSubstance Valproic acid (PUBCHEM.COMPOUND:3121)",
+    "standup_date": "2021-06-25",
+    "query_location": "https://raw.githubusercontent.com/NCATSTranslator/testing/main/ars-requests/not-none/1.1/apneaValproicGene.json",
+    "github_issue": "https://github.com/NCATSTranslator/testing/issues/81",
+    "ARS_Results": [
+        {
+            "ARS_result_date": "2021-06-24",
+            "ARS_result_id": "77f9f996-01cb-47c6-b546-f7329e2b9060"
+        }
+    ]
+}

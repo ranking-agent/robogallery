@@ -1,0 +1,13 @@
+{
+    "Query Title": "20. Script 1c",
+    "Query Description": "Phenotypic Feature - Gene KCNMA1 (HGNC:6284)",
+    "standup_date": "2021-06-01",
+    "query_location": "https://raw.githubusercontent.com/NCATSTranslator/testing/main/ars-requests/not-none/1.1/kcnma1.json",
+    "github_issue": "https://github.com/NCATSTranslator/testing/issues/70",
+    "ARS_Results": [
+        {
+            "ARS_result_date": "2021-06-01",
+            "ARS_result_id": "21fca295-6746-47f9-ab31-c79f3f9dc398"
+        }
+    ]
+}
