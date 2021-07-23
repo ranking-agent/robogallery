@@ -1,0 +1,49 @@
+{
+  "nodes": {
+    "n0": {
+      "name": "drug-induced liver injury",
+      "ids": ["NCIT:C26991"]
+    },
+    "n1": {
+      "categories": [
+        "biolink:DiseaseOrPhenotypicFeature"
+      ],
+      "name": "Disease Or Phenotypic Feature"
+    },
+    "n2": {
+      "categories": [
+        "biolink:Gene"
+      ],
+      "name": "Gene"
+    },
+    "n3": {
+      "categories": [
+        "biolink:ChemicalSubstance"
+      ],
+      "name": "Chemical Substance"
+    }
+  },
+  "edges": {
+    "e0": {
+      "subject": "n0",
+      "object": "n1",
+      "predicates": [
+        "biolink:correlated_with"
+      ]
+    },
+    "e1": {
+      "subject": "n1",
+      "object": "n2",
+      "predicates": [
+        "biolink:condition_associated_with_gene"
+      ]
+    },
+    "e2": {
+      "subject": "n2",
+      "object": "n3",
+      "predicates": [
+        "biolink:related_to"
+      ]
+    }
+  }
+}
