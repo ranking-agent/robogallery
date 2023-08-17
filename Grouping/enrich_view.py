@@ -1,3 +1,6 @@
+# run with:
+#  panel serve enrich_view.py --show --autoreload
+
 import panel as pn
 import os
 import json
