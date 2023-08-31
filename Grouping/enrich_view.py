@@ -6,6 +6,7 @@ import os
 import json
 import pandas as pd
 import param
+from bokeh.models.widgets.tables import ScientificFormatter
 
 from collections import defaultdict
 
@@ -41,7 +42,7 @@ class Data(param.Parameterized):
 
     @param.depends("enrichments")
     def enrich_table(self):
-        self.etable = pn.widgets.Tabulator(self.enrichments, selectable=1, show_index=False, editors={"rule": None, "p_value": None, "enrichment": None})
+        self.etable = pn.widgets.Tabulator(self.enrichments, selectable=1, show_index=False, editors={"rule": None, "p_value": None, "enrichment": None}, formatters={"p_value": ScientificFormatter()})
         self.add_result_filter()
         self.add_enrich_filter()
         return self.etable
@@ -89,7 +90,10 @@ class Data(param.Parameterized):
         scores = []
         for result in results:
             identifier = result["node_bindings"]["sn"][0]["id"]
-            names.append(self.response["message"]["knowledge_graph"]["nodes"][identifier]["name"])
+            try:
+                names.append(self.response["message"]["knowledge_graph"]["nodes"][identifier]["name"])
+            except:
+                names.append(identifier)
             scores.append(result["analyses"][0]["score"])
         df = pd.DataFrame({"name": names, "score": scores})
         df.sort_values(by="score", ascending=False, inplace=True)
@@ -137,7 +141,10 @@ class Data(param.Parameterized):
         result_to_enrichments = {}
         for result in results:
             identifier = result["node_bindings"]["sn"][0]["id"]
-            name = self.response["message"]["knowledge_graph"]["nodes"][identifier]["name"]
+            try:
+                name = self.response["message"]["knowledge_graph"]["nodes"][identifier]["name"]
+            except:
+                name = identifier
             result_to_enrichments[name] = result["enrichments"]
         self.result2enrichments = result_to_enrichments
 
@@ -175,7 +182,10 @@ def get_rule(attributes,data):
             rule = f"{str(newatts)} {e}"
             #rule = str(newatts)
     else:
-        rule = newatts["biolink:chemical_role:"]
+        try:
+            rule = newatts["biolink:chemical_role"]
+        except KeyError:
+            rule = newatts["biolink:chemical_role:"]
     return rule
 
 ## FILTERING
